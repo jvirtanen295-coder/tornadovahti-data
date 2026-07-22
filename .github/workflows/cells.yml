@@ -1,16 +1,12 @@
 name: Seuraa tutkasoluja
-
 on:
-  schedule:
-    - cron: "*/10 * * * *"   # 10 min valein (GitHub voi viivastyttaa hieman)
   workflow_dispatch: {}
-
+  schedule:
+    - cron: "*/15 * * * *"
 permissions:
   contents: write
-
 concurrency:
   group: gh-pages-deploy
-
 jobs:
   cells:
     runs-on: ubuntu-latest
@@ -23,7 +19,7 @@ jobs:
         run: pip install requests numpy pillow scipy
       - name: Tunnista ja seuraa soluja
         run: python scripts/track_cells.py
-      - name: Julkaise GitHub Pagesiin
+      - name: Julkaise
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: out
