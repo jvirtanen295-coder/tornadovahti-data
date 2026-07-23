@@ -1,36 +1,27 @@
 name: Paivita saadata
-
 on:
+  workflow_dispatch: {}
   schedule:
-    - cron: "23 */3 * * *"   # joka 3. tunti
-  workflow_dispatch: {}       # ja napista milloin vain
-
+    - cron: "23 */3 * * *"
 permissions:
   contents: write
-
 concurrency:
   group: gh-pages-deploy
-
 jobs:
   data:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
-      - name: Asenna eccodes-kirjasto
+      - name: Asenna eccodes
         run: sudo apt-get update && sudo apt-get install -y libeccodes-dev
-
-      - name: Asenna Python-kirjastot
-        run: pip install ecmwf-opendata cfgrib eccodes xarray numpy metpy
-
-      - name: Laske indeksit (Pori)
+      - name: Asenna kirjastot
+        run: pip install requests ecmwf-opendata cfgrib eccodes xarray numpy metpy
+      - name: Laske indeksit
         run: python scripts/fetch_data.py
-
-      - name: Julkaise GitHub Pagesiin
+      - name: Julkaise
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: out
