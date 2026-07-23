@@ -1,38 +1,38 @@
 {
- "updated": "2026-07-23T10:28+00:00",
+ "updated": "2026-07-23T16:07+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-07-23",
-   "shear": 6.5,
+   "shear": 5.7,
    "srh": null,
-   "li": -0.8
+   "li": -1.3
   },
   {
    "date": "2026-07-24",
-   "shear": 12.6,
+   "shear": 13.1,
    "srh": null,
-   "li": 4.0
+   "li": 4.2
   },
   {
    "date": "2026-07-25",
-   "shear": 14.1,
+   "shear": 13.7,
    "srh": null,
-   "li": 0.4
+   "li": 0.3
   },
   {
    "date": "2026-07-26",
-   "shear": 13.4,
+   "shear": 10.1,
    "srh": null,
-   "li": 4.3
+   "li": 3.5
   }
  ],
  "warnings": [
   {
-   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Pohjanlahti, to 8.22 - 12.00",
-   "desc": "POISTETTU: Huomautus veneilijöille: Pohjoistuulta aluksi 12 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Pohjanlahti, pe 9.00 - 17.00",
+   "desc": "Huomautus veneilijöille: Etelän ja lounaan välistä tuulta päivällä 12 m/s.",
    "lvl": 1
   }
  ],
