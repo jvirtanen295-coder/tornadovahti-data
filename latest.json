@@ -1,32 +1,32 @@
 {
- "updated": "2026-07-22T21:06+00:00",
+ "updated": "2026-07-23T06:44+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0), IFS 0.25°",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-07-22",
-   "shear": 4.3,
+   "shear": 4.1,
    "srh": null,
-   "li": 0.8
+   "li": 2.6
   },
   {
    "date": "2026-07-23",
-   "shear": 6.3,
+   "shear": 6.2,
    "srh": null,
-   "li": -0.8
+   "li": -2.2
   },
   {
    "date": "2026-07-24",
-   "shear": 13.9,
+   "shear": 12.4,
    "srh": null,
-   "li": 4.4
+   "li": 4.1
   },
   {
    "date": "2026-07-25",
-   "shear": 14.9,
+   "shear": 15.1,
    "srh": null,
-   "li": 1.0
+   "li": 1.9
   }
  ],
  "warnings": []
