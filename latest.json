@@ -1,43 +1,43 @@
 {
- "updated": "2026-07-25T12:17+00:00",
+ "updated": "2026-07-25T16:14+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-07-25",
-   "shear": 15.1,
+   "shear": 11.3,
    "srh": null,
-   "li": -0.1
+   "li": 0.2
   },
   {
    "date": "2026-07-26",
-   "shear": 17.6,
+   "shear": 15.9,
    "srh": null,
-   "li": -0.8
+   "li": -0.6
   },
   {
    "date": "2026-07-27",
-   "shear": 17.5,
+   "shear": 18.8,
    "srh": null,
-   "li": 1.4
+   "li": 0.8
   },
   {
    "date": "2026-07-28",
-   "shear": 12.7,
+   "shear": 11.2,
    "srh": null,
-   "li": 6.1
+   "li": -1.1
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeri, la 14.28 - su 12.00",
-   "desc": "Huomautus veneilijöille: Etelätuulta aluksi 11 m/s.",
+   "title": "Keltainen raju ukonilma: Paikoin maan länsiosa, su 12.00 - 21.00",
+   "desc": "Varoitus rajusta ukonilmasta: Iltapäivällä ja illalla kehittyy ukkoskuuroja, joiden yhteydessä esiintyy voimakkaita ukkospuuskia, yli 15 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen raju ukonilma: Paikoin maan länsiosa, su 15.00 - 21.00",
-   "desc": "Varoitus rajusta ukonilmasta: Sunnuntaina päivällä ja illalla voi esiintyä ukkoskuuroja, joiden yhteydessä voimakkaiden ukkospuuskien todennäköisyys on 30 %.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeri, la 17.30 - su 16.00",
+   "desc": "Huomautus veneilijöille: Etelätuulta aluksi 11 m/s.",
    "lvl": 1
   }
  ],
