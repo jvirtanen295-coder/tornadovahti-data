@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-25T07:38+00:00",
+ "updated": "2026-07-25T12:17+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -31,8 +31,13 @@
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, la 8.56 - 12.00",
-   "desc": "Huomautus veneilijöille: Etelätuulta aluksi 12 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeri, la 14.28 - su 12.00",
+   "desc": "Huomautus veneilijöille: Etelätuulta aluksi 11 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen raju ukonilma: Paikoin maan länsiosa, su 15.00 - 21.00",
+   "desc": "Varoitus rajusta ukonilmasta: Sunnuntaina päivällä ja illalla voi esiintyä ukkoskuuroja, joiden yhteydessä voimakkaiden ukkospuuskien todennäköisyys on 30 %.",
    "lvl": 1
   }
  ],
