@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-26T13:27+00:00",
+ "updated": "2026-07-26T18:48+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -29,17 +29,6 @@
    "li": 4.1
   }
  ],
- "warnings": [
-  {
-   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Selkämeri ja Merenkurkku, su 11.31 - 15.00",
-   "desc": "POISTETTU: Huomautus veneilijöille: Etelätuulta aluksi 13 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 14.57 - 18.00",
-   "desc": "Huomautus veneilijöille: Etelätuulta aluksi 12 m/s.",
-   "lvl": 1
-  }
- ],
+ "warnings": [],
  "warnings_ok": true
 }
