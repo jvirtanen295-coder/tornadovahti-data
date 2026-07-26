@@ -1,43 +1,43 @@
 {
- "updated": "2026-07-26T09:05+00:00",
+ "updated": "2026-07-26T12:50+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-07-26",
-   "shear": 16.2,
-   "srh": null,
-   "li": 0.9
-  },
-  {
-   "date": "2026-07-27",
-   "shear": 17.8,
-   "srh": null,
-   "li": -0.5
-  },
-  {
-   "date": "2026-07-28",
-   "shear": 14.6,
+   "shear": 15.3,
    "srh": null,
    "li": 0.3
   },
   {
-   "date": "2026-07-29",
-   "shear": 12.8,
+   "date": "2026-07-27",
+   "shear": 17.1,
    "srh": null,
-   "li": 3.7
+   "li": -1.0
+  },
+  {
+   "date": "2026-07-28",
+   "shear": 14.4,
+   "srh": null,
+   "li": 0.2
+  },
+  {
+   "date": "2026-07-29",
+   "shear": 11.7,
+   "srh": null,
+   "li": 4.1
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen raju ukonilma: Paikoin koko maa, ma 15.00 - 23.00",
-   "desc": "Varoitus rajusta ukonilmasta: Maanantaina päivällä ja illalla voi esiintyä ukkoskuuroja, joiden yhteydessä voimakkaiden ukkospuuskien todennäköisyys on 30 %.",
+   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Selkämeri ja Merenkurkku, su 11.31 - 15.00",
+   "desc": "POISTETTU: Huomautus veneilijöille: Etelätuulta aluksi 13 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeri ja Merenkurkku, su 11.31 - 15.00",
-   "desc": "Huomautus veneilijöille: Etelätuulta aluksi 13 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 14.57 - 18.00",
+   "desc": "Huomautus veneilijöille: Etelätuulta aluksi 12 m/s.",
    "lvl": 1
   }
  ],
