@@ -5,11 +5,14 @@ on:
     - cron: "23 */3 * * *"
 permissions:
   contents: write
+  actions: write
 concurrency:
   group: gh-pages-deploy
 jobs:
   data:
     runs-on: ubuntu-latest
+    outputs:
+      storm: ${{ steps.check.outputs.trigger }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -21,9 +24,25 @@ jobs:
         run: pip install requests ecmwf-opendata cfgrib eccodes xarray numpy metpy
       - name: Laske indeksit
         run: python scripts/fetch_data.py
+      - name: Tarkista ukkospaiva
+        id: check
+        run: python scripts/check_trigger.py
       - name: Julkaise
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: out
           branch: gh-pages
           clean: false
+
+  kaynnista-ukkosseuranta:
+    needs: data
+    if: needs.data.outputs.storm == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kaynnista ukkospaiva-seuranta automaattisesti
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Ukkospotentiaalia havaittu - kaynnistetaan tiheä seuranta"
+          gh workflow run ukkospaiva.yml --repo "${GITHUB_REPOSITORY}" || \
+            echo "Kaynnistys ei onnistunut (onko ukkospaiva.yml lisatty?)"
