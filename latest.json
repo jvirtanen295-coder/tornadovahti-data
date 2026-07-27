@@ -1,34 +1,45 @@
 {
- "updated": "2026-07-26T18:48+00:00",
+ "updated": "2026-07-27T10:55+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-07-26",
-   "shear": 15.3,
-   "srh": null,
-   "li": 0.3
-  },
-  {
    "date": "2026-07-27",
-   "shear": 17.1,
+   "shear": 17.8,
    "srh": null,
-   "li": -1.0
+   "li": 0.7
   },
   {
    "date": "2026-07-28",
-   "shear": 14.4,
+   "shear": 16.9,
    "srh": null,
-   "li": 0.2
+   "li": -1.1
   },
   {
    "date": "2026-07-29",
-   "shear": 11.7,
+   "shear": 15.3,
    "srh": null,
-   "li": 4.1
+   "li": 3.4
+  },
+  {
+   "date": "2026-07-30",
+   "shear": 12.3,
+   "srh": null,
+   "li": 7.6
   }
  ],
- "warnings": [],
+ "warnings": [
+  {
+   "title": "Keltainen raju ukonilma: Paikoin koko maa, ti 2.00 - 21.00",
+   "desc": "Varoitus rajusta ukonilmasta: Yöstä alkaen kehittyy ukkoskuuroja, joiden yhteydessä esiintyy voimakkaita ukkospuuskia, yli 15 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen raju ukonilma: Paikoin koko maa, ma 16.00 - 23.00",
+   "desc": "Varoitus rajusta ukonilmasta: Iltapäivästä alkaen kehittyy ukkoskuuroja, joiden yhteydessä esiintyy voimakkaita ukkospuuskia, yli 15 m/s.",
+   "lvl": 1
+  }
+ ],
  "warnings_ok": true
 }
