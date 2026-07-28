@@ -1,38 +1,43 @@
 {
- "updated": "2026-07-28T17:51+00:00",
+ "updated": "2026-07-28T22:18+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-07-28",
-   "shear": 7.8,
+   "shear": 10.1,
    "srh": null,
-   "li": -0.9
+   "li": -1.4
   },
   {
    "date": "2026-07-29",
-   "shear": 16.9,
+   "shear": 16.2,
    "srh": null,
-   "li": 2.1
+   "li": 2.5
   },
   {
    "date": "2026-07-30",
-   "shear": 14.0,
+   "shear": 14.2,
    "srh": null,
-   "li": -5.2
+   "li": -5.7
   },
   {
    "date": "2026-07-31",
-   "shear": 14.4,
+   "shear": 19.5,
    "srh": null,
-   "li": -2.0
+   "li": -4.8
   }
  ],
  "warnings": [
   {
    "title": "Keltainen raju ukonilma: Maan länsiosa sekä paikoin Pohjois-Pohjanmaa, pe 0.00 - la 0.00",
    "desc": "Varoitus rajusta ukonilmasta: Torstain ja perjantain välisestä yöstä perjantain ja lauantain väliseen yöhön voi esiintyä ukkoskuuroja, joiden yhteydessä voimakkaiden ukkospuuskien todennäköisyys on 30 %.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, pe 0.00 - 15.00",
+   "desc": "Kovan tuulen varoitus: Kovan etelätuulen todennäköisyys on 30 % torstain ja perjantain välisestä yöstä perjantaipäivään.",
    "lvl": 1
   }
  ],
