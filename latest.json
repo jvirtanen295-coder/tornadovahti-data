@@ -1,40 +1,35 @@
 {
- "updated": "2026-07-27T22:21+00:00",
+ "updated": "2026-07-28T10:15+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-07-27",
-   "shear": 15.0,
-   "srh": null,
-   "li": 1.1
-  },
-  {
    "date": "2026-07-28",
-   "shear": 15.5,
+   "shear": 16.0,
    "srh": null,
-   "li": 0.7
+   "li": -0.7
   },
   {
    "date": "2026-07-29",
-   "shear": 16.0,
+   "shear": 13.8,
    "srh": null,
-   "li": 3.3
+   "li": 2.7
   },
   {
    "date": "2026-07-30",
-   "shear": 12.4,
+   "shear": 13.0,
    "srh": null,
-   "li": -5.2
+   "li": -6.0
+  },
+  {
+   "date": "2026-07-31",
+   "shear": 14.4,
+   "srh": null,
+   "li": 1.8
   }
  ],
  "warnings": [
-  {
-   "title": "Keltainen raju ukonilma: Paikoin koko maa, ti 0.06 - 21.00",
-   "desc": "Varoitus rajusta ukonilmasta: Aluksi kehittyy ukkoskuuroja, joiden yhteydessä esiintyy voimakkaita ukkospuuskia, yli 15 m/s.",
-   "lvl": 1
-  },
   {
    "title": "Keltainen raju ukonilma: Maan länsiosa sekä paikoin Pohjois-Pohjanmaa, pe 0.00 - la 0.00",
    "desc": "Varoitus rajusta ukonilmasta: Torstain ja perjantain välisestä yöstä perjantain ja lauantain väliseen yöhön voi esiintyä ukkoskuuroja, joiden yhteydessä voimakkaiden ukkospuuskien todennäköisyys on 30 %.",
