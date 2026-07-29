@@ -1,7 +1,18 @@
 {
- "updated": "2026-07-29T16:05+00:00",
- "frame_time": "2026-07-29T16:00+00:00",
+ "updated": "2026-07-29T20:17+00:00",
+ "frame_time": "2026-07-29T20:10+00:00",
  "source": "RainViewer-komposiitti (sis. FMI:n tutkat)",
  "note": "Automaattinen tunnistus; sijainti ±2 km, ei Doppler-rotaatiota.",
- "cells": []
+ "cells": [
+  {
+   "lat": 61.0461,
+   "lng": 16.9513,
+   "px": 206,
+   "size": 119,
+   "int": 3,
+   "dir": 97.0,
+   "spd": 2.7,
+   "id": "A"
+  }
+ ]
 }
