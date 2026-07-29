@@ -1,47 +1,52 @@
 {
- "updated": "2026-07-29T17:01+00:00",
+ "updated": "2026-07-29T21:36+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-07-29",
-   "shear": 16.2,
+   "shear": 15.2,
    "srh": null,
-   "li": 3.2
+   "li": 3.0
   },
   {
    "date": "2026-07-30",
-   "shear": 13.1,
+   "shear": 13.4,
    "srh": null,
-   "li": -5.3
+   "li": -5.6
   },
   {
    "date": "2026-07-31",
-   "shear": 19.4,
+   "shear": 19.7,
    "srh": null,
-   "li": -4.1
+   "li": -1.8
   },
   {
    "date": "2026-08-01",
-   "shear": 20.6,
+   "shear": 18.2,
    "srh": null,
-   "li": 0.8
+   "li": -0.4
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, to 8.00 - 14.00",
-   "desc": "Huomautus veneilijöille: Etelätuulta päivällä 12 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, to 17.00 - 20.00",
+   "desc": "Huomautus veneilijöille: Etelätuulta illalla 12 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, to 8.00 - 20.00",
+   "desc": "Huomautus veneilijöille: Etelätuulta aamusta alkaen 12 m/s.",
    "lvl": 1
   },
   {
    "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, pe 0.00 - 15.00",
-   "desc": "Kovan tuulen varoitus: Kovan etelätuulen todennäköisyys on 30 % torstain ja perjantain välisestä yöstä perjantaipäivään.",
+   "desc": "Kovan tuulen varoitus: Etelätuulta keskiyöstä alkaen 14 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen raju ukonilma: Paikoin maan keski- ja pohjoisosa, pe 12.00 - la 0.00",
+   "title": "Keltainen raju ukonilma: Paikoin koko maa, pe 12.00 - la 0.00",
    "desc": "Varoitus rajusta ukonilmasta: Perjantaipäivästä perjantain ja lauantain väliseen yöhön voi esiintyä ukkoskuuroja, joiden yhteydessä voimakkaiden ukkospuuskien todennäköisyys on 30 %.",
    "lvl": 1
   }
