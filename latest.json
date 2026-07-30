@@ -1,38 +1,43 @@
 {
- "updated": "2026-07-30T17:13+00:00",
+ "updated": "2026-07-30T22:22+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-07-30",
-   "shear": 15.9,
+   "shear": 13.3,
    "srh": null,
-   "li": -5.3
+   "li": -5.6
   },
   {
    "date": "2026-07-31",
-   "shear": 17.4,
+   "shear": 18.3,
    "srh": null,
-   "li": -1.9
+   "li": -3.5
   },
   {
    "date": "2026-08-01",
-   "shear": 18.8,
+   "shear": 22.9,
    "srh": null,
-   "li": 0.5
+   "li": -0.1
   },
   {
    "date": "2026-08-02",
-   "shear": 11.9,
+   "shear": 10.3,
    "srh": null,
-   "li": -0.3
+   "li": -0.4
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, pe 0.00 - 15.00",
-   "desc": "Kovan tuulen varoitus: Etelätuulta aluksi 14 m/s.",
+   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, pe 0.00 - 15.00",
+   "desc": "POISTETTU: Kovan tuulen varoitus: Etelätuulta aluksi 14 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen raju ukonilma: Paikoin kaikki merialueet, pe 3.00 - 15.00",
+   "desc": "Huomautus veneilijöille: Aluksi ukkospuuskia.",
    "lvl": 1
   },
   {
@@ -41,18 +46,8 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen raju ukonilma: Pohjanlahti, pe 0.00 - 18.00",
-   "desc": "Huomautus veneilijöille: Aluksi ukkospuuskia.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, to 20.08 - pe 5.00",
-   "desc": "Huomautus veneilijöille: Etelätuulta aluksi 12 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, to 20.08 - pe 0.00",
-   "desc": "Huomautus veneilijöille: Etelätuulta aluksi 12 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeri, pe 5.00 - 14.00",
+   "desc": "Kovan tuulen varoitus: Etelätuulta aamuyöstä alkaen 14 m/s.",
    "lvl": 1
   }
  ],
