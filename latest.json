@@ -1,53 +1,53 @@
 {
- "updated": "2026-07-29T21:36+00:00",
+ "updated": "2026-07-30T09:48+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-07-29",
-   "shear": 15.2,
-   "srh": null,
-   "li": 3.0
-  },
-  {
    "date": "2026-07-30",
-   "shear": 13.4,
+   "shear": 15.7,
    "srh": null,
-   "li": -5.6
+   "li": -5.3
   },
   {
    "date": "2026-07-31",
-   "shear": 19.7,
+   "shear": 18.1,
    "srh": null,
-   "li": -1.8
+   "li": -3.2
   },
   {
    "date": "2026-08-01",
-   "shear": 18.2,
+   "shear": 21.0,
    "srh": null,
-   "li": -0.4
+   "li": 0.6
+  },
+  {
+   "date": "2026-08-02",
+   "shear": 10.6,
+   "srh": null,
+   "li": 1.8
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, to 17.00 - 20.00",
-   "desc": "Huomautus veneilijöille: Etelätuulta illalla 12 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, to 11.52 - 20.00",
+   "desc": "Huomautus veneilijöille: Etelätuulta aluksi 12 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, to 8.00 - 20.00",
-   "desc": "Huomautus veneilijöille: Etelätuulta aamusta alkaen 12 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, pe 0.00 - 15.00",
-   "desc": "Kovan tuulen varoitus: Etelätuulta keskiyöstä alkaen 14 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, to 17.00 - pe 5.00",
+   "desc": "Huomautus veneilijöille: Etelätuulta iltapäivästä alkaen 12 m/s.",
    "lvl": 1
   },
   {
    "title": "Keltainen raju ukonilma: Paikoin koko maa, pe 12.00 - la 0.00",
    "desc": "Varoitus rajusta ukonilmasta: Perjantaipäivästä perjantain ja lauantain väliseen yöhön voi esiintyä ukkoskuuroja, joiden yhteydessä voimakkaiden ukkospuuskien todennäköisyys on 30 %.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, pe 0.00 - 15.00",
+   "desc": "Kovan tuulen varoitus: Etelätuulta keskiyöstä alkaen 14 m/s.",
    "lvl": 1
   }
  ],
