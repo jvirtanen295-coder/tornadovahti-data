@@ -1,53 +1,58 @@
 {
- "updated": "2026-07-30T09:48+00:00",
+ "updated": "2026-07-30T17:13+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-07-30",
-   "shear": 15.7,
+   "shear": 15.9,
    "srh": null,
    "li": -5.3
   },
   {
    "date": "2026-07-31",
-   "shear": 18.1,
+   "shear": 17.4,
    "srh": null,
-   "li": -3.2
+   "li": -1.9
   },
   {
    "date": "2026-08-01",
-   "shear": 21.0,
+   "shear": 18.8,
    "srh": null,
-   "li": 0.6
+   "li": 0.5
   },
   {
    "date": "2026-08-02",
-   "shear": 10.6,
+   "shear": 11.9,
    "srh": null,
-   "li": 1.8
+   "li": -0.3
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, to 11.52 - 20.00",
-   "desc": "Huomautus veneilijöille: Etelätuulta aluksi 12 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, to 17.00 - pe 5.00",
-   "desc": "Huomautus veneilijöille: Etelätuulta iltapäivästä alkaen 12 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, pe 0.00 - 15.00",
+   "desc": "Kovan tuulen varoitus: Etelätuulta aluksi 14 m/s.",
    "lvl": 1
   },
   {
    "title": "Keltainen raju ukonilma: Paikoin koko maa, pe 12.00 - la 0.00",
-   "desc": "Varoitus rajusta ukonilmasta: Perjantaipäivästä perjantain ja lauantain väliseen yöhön voi esiintyä ukkoskuuroja, joiden yhteydessä voimakkaiden ukkospuuskien todennäköisyys on 30 %.",
+   "desc": "Varoitus rajusta ukonilmasta: Keskipäivästä alkaen kehittyy ukkoskuuroja, joiden yhteydessä esiintyy voimakkaita ukkospuuskia, yli 15 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, pe 0.00 - 15.00",
-   "desc": "Kovan tuulen varoitus: Etelätuulta keskiyöstä alkaen 14 m/s.",
+   "title": "Keltainen raju ukonilma: Pohjanlahti, pe 0.00 - 18.00",
+   "desc": "Huomautus veneilijöille: Aluksi ukkospuuskia.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, to 20.08 - pe 5.00",
+   "desc": "Huomautus veneilijöille: Etelätuulta aluksi 12 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, to 20.08 - pe 0.00",
+   "desc": "Huomautus veneilijöille: Etelätuulta aluksi 12 m/s.",
    "lvl": 1
   }
  ],
