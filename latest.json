@@ -1,53 +1,48 @@
 {
- "updated": "2026-07-30T22:22+00:00",
+ "updated": "2026-07-31T10:15+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-07-30",
-   "shear": 13.3,
-   "srh": null,
-   "li": -5.6
-  },
-  {
    "date": "2026-07-31",
-   "shear": 18.3,
+   "shear": 18.1,
    "srh": null,
-   "li": -3.5
+   "li": -2.6
   },
   {
    "date": "2026-08-01",
-   "shear": 22.9,
+   "shear": 23.0,
    "srh": null,
-   "li": -0.1
+   "li": 0.5
   },
   {
    "date": "2026-08-02",
-   "shear": 10.3,
+   "shear": 13.1,
    "srh": null,
-   "li": -0.4
+   "li": -1.1
+  },
+  {
+   "date": "2026-08-03",
+   "shear": 16.6,
+   "srh": null,
+   "li": 0.8
   }
  ],
  "warnings": [
   {
-   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, pe 0.00 - 15.00",
-   "desc": "POISTETTU: Kovan tuulen varoitus: Etelätuulta aluksi 14 m/s.",
+   "title": "Keltainen raju ukonilma: Paikoin koko maa, pe 11.50 - la 0.00",
+   "desc": "Varoitus rajusta ukonilmasta: Aluksi kehittyy ukkoskuuroja, joiden yhteydessä esiintyy voimakkaita ukkospuuskia, yli 15 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen raju ukonilma: Paikoin kaikki merialueet, pe 3.00 - 15.00",
+   "title": "Keltainen raju ukonilma: Paikoin kaikki merialueet, pe 11.50 - 15.00",
    "desc": "Huomautus veneilijöille: Aluksi ukkospuuskia.",
    "lvl": 1
   },
   {
-   "title": "Keltainen raju ukonilma: Paikoin koko maa, pe 12.00 - la 0.00",
-   "desc": "Varoitus rajusta ukonilmasta: Keskipäivästä alkaen kehittyy ukkoskuuroja, joiden yhteydessä esiintyy voimakkaita ukkospuuskia, yli 15 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeri, pe 5.00 - 14.00",
-   "desc": "Kovan tuulen varoitus: Etelätuulta aamuyöstä alkaen 14 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeri, pe 11.50 - 14.00",
+   "desc": "Kovan tuulen varoitus: Etelätuulta aluksi 14 m/s.",
    "lvl": 1
   }
  ],
