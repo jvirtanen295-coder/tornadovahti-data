@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T12:47+00:00",
+ "updated": "2026-08-01T18:50+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -29,6 +29,12 @@
    "li": 3.0
   }
  ],
- "warnings": [],
+ "warnings": [
+  {
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 15.00 - 21.00",
+   "desc": "Huomautus veneilijöille: Lounaistuulta iltapäivällä ja illalla 12 m/s.",
+   "lvl": 1
+  }
+ ],
  "warnings_ok": true
 }
