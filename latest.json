@@ -1,43 +1,48 @@
 {
- "updated": "2026-08-04T16:31+00:00",
+ "updated": "2026-08-04T22:35+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-08-04",
-   "shear": 23.8,
+   "shear": 24.0,
    "srh": null,
-   "li": 4.5
+   "li": 4.0
   },
   {
    "date": "2026-08-05",
-   "shear": 25.6,
+   "shear": 29.5,
    "srh": null,
-   "li": 4.6
+   "li": 4.3
   },
   {
    "date": "2026-08-06",
-   "shear": 20.6,
+   "shear": 19.9,
    "srh": null,
-   "li": -1.4
+   "li": -1.8
   },
   {
    "date": "2026-08-07",
-   "shear": 13.0,
+   "shear": 13.2,
    "srh": null,
    "li": 0.1
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa, ke 12.00 - 21.00",
-   "desc": "Huomautus veneilijöille: Kaakkoistuulta iltapäivällä ja illalla 12 m/s.",
+   "title": "Keltainen tuulivaroitus maa-alueille: Maan etelä- ja keskiosa, pe 11.00 - la 0.00",
+   "desc": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan länsituulen todennäköisyys on 30 % perjantaipäivästä perjantain ja lauantain väliseen yöhön. Tuulen nopeus voi olla puuskissa 15 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus maa-alueille: Maan etelä- ja keskiosa, pe 11.00 - la 0.00",
-   "desc": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan luoteistuulen todennäköisyys on 30 % perjantaipäivästä perjantain ja lauantain väliseen yöhön. Tuulen nopeus voi olla puuskissa 15 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa, ke 12.00 - to 0.00",
+   "desc": "Huomautus veneilijöille: Kaakkoistuulta keskipäivästä alkaen 13 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Selkämeren eteläosa, ke 12.00 - 21.00",
+   "desc": "Huomautus veneilijöille: Kaakkoistuulta iltapäivällä ja illalla 11 m/s.",
    "lvl": 1
   }
  ],
