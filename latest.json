@@ -1,48 +1,43 @@
 {
- "updated": "2026-08-05T18:11+00:00",
+ "updated": "2026-08-05T22:35+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-08-05",
-   "shear": 25.5,
+   "shear": 22.0,
    "srh": null,
-   "li": 4.9
+   "li": 5.2
   },
   {
    "date": "2026-08-06",
-   "shear": 20.3,
+   "shear": 19.4,
    "srh": null,
    "li": -1.2
   },
   {
    "date": "2026-08-07",
-   "shear": 10.9,
+   "shear": 11.9,
    "srh": null,
-   "li": 0.2
+   "li": -0.0
   },
   {
    "date": "2026-08-08",
-   "shear": 11.2,
+   "shear": 11.4,
    "srh": null,
-   "li": 1.5
+   "li": 1.9
   }
  ],
  "warnings": [
   {
-   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Selkämeri, ke 17.37 - 21.00",
-   "desc": "POISTETTU: Huomautus veneilijöille: Kaakkoistuulta aluksi 11 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeri, to 9.00 - pe 0.00",
+   "desc": "Huomautus veneilijöille: Lounaistuulta aamupäivästä alkaen 13 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri sekä paikoin Pohjanlahti, to 8.00 - pe 0.00",
-   "desc": "Huomautus veneilijöille: Lounaistuulta aamusta alkaen 11 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus maa-alueille: Maan etelä- ja keskiosa, pe 11.00 - la 0.00",
-   "desc": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan länsituulen todennäköisyys on 30 % perjantaipäivästä perjantain ja lauantain väliseen yöhön. Tuulen nopeus voi olla puuskissa 15 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri sekä paikoin Pohjanlahti, to 9.00 - pe 0.00",
+   "desc": "Huomautus veneilijöille: Lounaistuulta aamupäivästä alkaen 11 m/s.",
    "lvl": 1
   },
   {
@@ -51,8 +46,13 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeri, to 8.00 - pe 0.00",
-   "desc": "Huomautus veneilijöille: Lounaistuulta aamusta alkaen 13 m/s.",
+   "title": "Keltainen tuulivaroitus maa-alueille: Maan etelä- ja keskiosa, pe 11.00 - 21.00",
+   "desc": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan länsituulen todennäköisyys on 30 % perjantaina päivällä ja illalla. Tuulen nopeus voi olla puuskissa 15 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Selkämeri, pe 8.00 - 13.00",
+   "desc": "Kovan tuulen varoitus: Kovan lännen ja luoteen välisen tuulen todennäköisyys on 30 % perjantaina aamulla ja päivällä.",
    "lvl": 1
   }
  ],
