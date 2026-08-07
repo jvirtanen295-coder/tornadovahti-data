@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T20:26+00:00",
+ "updated": "2026-08-07T23:19+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -30,11 +30,6 @@
   }
  ],
  "warnings": [
-  {
-   "title": "Keltainen tuulivaroitus merelle: Suomenlahti sekä paikoin Pohjanlahti, pe 20.07 - la 0.00",
-   "desc": "Huomautus veneilijöille: Länsituulta aluksi 12 m/s.",
-   "lvl": 1
-  },
   {
    "title": "Keltainen tuulivaroitus maa-alueille: Paikoin koko maa, ma 6.00 - 18.00",
    "desc": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan etelän ja lounaan välisen tuulen todennäköisyys on 20 % maanantaiaamusta maanantai-iltaan. Tuulen nopeus voi olla puuskissa 15 m/s.",
