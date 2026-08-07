@@ -1,58 +1,53 @@
 {
- "updated": "2026-08-06T10:20+00:00",
+ "updated": "2026-08-07T04:17+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-08-06",
-   "shear": 19.8,
+   "shear": 17.9,
    "srh": null,
-   "li": 0.1
+   "li": 0.4
   },
   {
    "date": "2026-08-07",
-   "shear": 9.8,
+   "shear": 10.0,
    "srh": null,
-   "li": -0.8
+   "li": 0.8
   },
   {
    "date": "2026-08-08",
-   "shear": 15.6,
+   "shear": 16.8,
    "srh": null,
-   "li": 2.3
+   "li": 3.3
   },
   {
    "date": "2026-08-09",
-   "shear": 14.7,
+   "shear": 17.4,
    "srh": null,
-   "li": 6.4
+   "li": 2.0
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, to 11.11 - pe 0.00",
-   "desc": "Huomautus veneilijöille: Lounaistuulta aluksi 11 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, pe 5.06 - 8.00",
+   "desc": "Huomautus veneilijöille: Lounaistuulta aluksi 12 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeren eteläosa, pe 8.00 - 13.00",
-   "desc": "Kovan tuulen varoitus: Lännen ja luoteen välistä tuulta aamupäivällä 14 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Pohjanlahti, pe 8.00 - la 0.00",
+   "desc": "Huomautus veneilijöille: Luoteistuulta aluksi 12 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri sekä paikoin Pohjanlahti, to 11.11 - pe 0.00",
-   "desc": "Huomautus veneilijöille: Lounaistuulta aluksi 11 m/s.",
+   "title": "Keltainen tuulivaroitus maa-alueille: Paikoin maan etelä- ja keskiosa, pe 10.00 - 20.00",
+   "desc": "Tuulivaroitus maa-alueille: Länsituuli on voimakasta aamupäivästä alkaen, tuulen nopeus puuskissa 15 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus maa-alueille: Paikoin maan etelä- ja keskiosa, pe 11.00 - 21.00",
-   "desc": "Tuulivaroitus maa-alueille: Länsituuli on voimakasta iltapäivällä ja illalla, tuulen nopeus puuskissa 15 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeri, to 11.11 - pe 0.00",
-   "desc": "Huomautus veneilijöille: Lounaistuulta aluksi 13 m/s.",
+   "title": "Keltainen tuulivaroitus maa-alueille: Paikoin koko maa, ma 3.00 - 18.00",
+   "desc": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan etelän ja lounaan välisen tuulen todennäköisyys on 20 % sunnuntain ja maanantain välisestä yöstä maanantai-iltaan. Tuulen nopeus voi olla puuskissa 15 m/s.",
    "lvl": 1
   }
  ],
