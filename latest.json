@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T19:59+00:00",
+ "updated": "2026-08-08T23:00+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -31,18 +31,23 @@
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus maa-alueille: Paikoin koko maa, ma 6.00 - 18.00",
-   "desc": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan etelän ja lounaan välisen tuulen todennäköisyys on 20 % maanantaiaamusta maanantai-iltaan. Tuulen nopeus voi olla puuskissa 15 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 12.00 - ma 0.00",
-   "desc": "Huomautus veneilijöille: Lounaistuulta keskipäivästä alkaen 12 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Perämeri, su 16.00 - ma 0.00",
+   "title": "Keltainen tuulivaroitus merelle: Perämeri, su 15.00 - ma 0.00",
    "desc": "Huomautus veneilijöille: Lounaistuulta iltapäivästä alkaen 12 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus maa-alueille: Paikoin koko maa, ma 10.00 - 20.00",
+   "desc": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan etelän ja lounaan välisen tuulen todennäköisyys on 20 % maanantaina päivällä ja illalla. Tuulen nopeus voi olla puuskissa 15 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 11.00 - ma 0.00",
+   "desc": "Huomautus veneilijöille: Lounaistuulta aamupäivästä alkaen 12 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus maa-alueille: Pohjanmaa, su 14.00 - 20.00",
+   "desc": "Tuulivaroitus maa-alueille: Lounaistuuli on voimakasta iltapäivällä ja illalla, tuulen nopeus puuskissa 15 m/s.",
    "lvl": 1
   }
  ],
