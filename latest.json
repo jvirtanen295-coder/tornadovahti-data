@@ -1,43 +1,43 @@
 {
- "updated": "2026-08-08T23:00+00:00",
+ "updated": "2026-08-09T04:52+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-08-08",
-   "shear": 16.6,
+   "shear": 18.0,
    "srh": null,
-   "li": 0.9
+   "li": 1.5
   },
   {
    "date": "2026-08-09",
-   "shear": 16.3,
+   "shear": 17.1,
    "srh": null,
-   "li": 1.9
+   "li": 2.4
   },
   {
    "date": "2026-08-10",
-   "shear": 19.7,
+   "shear": 17.9,
    "srh": null,
-   "li": 0.1
+   "li": -1.0
   },
   {
    "date": "2026-08-11",
-   "shear": 16.5,
+   "shear": 16.6,
    "srh": null,
-   "li": -1.6
+   "li": -1.2
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Perämeri, su 15.00 - ma 0.00",
-   "desc": "Huomautus veneilijöille: Lounaistuulta iltapäivästä alkaen 12 m/s.",
+   "title": "Keltainen tuulivaroitus maa-alueille: Paikoin koko maa, ma 10.00 - 20.00",
+   "desc": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan etelän ja lounaan välisen tuulen todennäköisyys on 20 % maanantaina päivällä ja illalla. Tuulen nopeus voi olla puuskissa 15 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus maa-alueille: Paikoin koko maa, ma 10.00 - 20.00",
-   "desc": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan etelän ja lounaan välisen tuulen todennäköisyys on 20 % maanantaina päivällä ja illalla. Tuulen nopeus voi olla puuskissa 15 m/s.",
+   "title": "Keltainen tuulivaroitus maa-alueille: Pohjanmaa, su 14.00 - 20.00",
+   "desc": "Tuulivaroitus maa-alueille: Lounaistuuli on voimakasta iltapäivällä ja illalla, tuulen nopeus puuskissa 15 m/s.",
    "lvl": 1
   },
   {
@@ -46,8 +46,8 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus maa-alueille: Pohjanmaa, su 14.00 - 20.00",
-   "desc": "Tuulivaroitus maa-alueille: Lounaistuuli on voimakasta iltapäivällä ja illalla, tuulen nopeus puuskissa 15 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Perämeri, su 15.00 - ma 0.00",
+   "desc": "Huomautus veneilijöille: Lounaistuulta iltapäivästä alkaen 12 m/s.",
    "lvl": 1
   }
  ],
