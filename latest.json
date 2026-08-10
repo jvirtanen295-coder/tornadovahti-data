@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T15:39+00:00",
+ "updated": "2026-08-10T20:28+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -8,41 +8,41 @@
    "date": "2026-08-10",
    "shear": 19.4,
    "srh": null,
-   "li": -0.1
+   "li": -0.2
   },
   {
    "date": "2026-08-11",
-   "shear": 11.9,
+   "shear": 15.3,
    "srh": null,
    "li": -0.7
   },
   {
    "date": "2026-08-12",
-   "shear": 18.8,
+   "shear": 18.7,
    "srh": null,
-   "li": 1.6
+   "li": 2.5
   },
   {
    "date": "2026-08-13",
-   "shear": 23.7,
+   "shear": 18.4,
    "srh": null,
-   "li": 6.4
+   "li": 4.1
   }
  ],
  "warnings": [
   {
-   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Merenkurkku ja Perämeri, ma 14.58 - 18.00",
-   "desc": "POISTETTU: Huomautus veneilijöille: Lounaistuulta aluksi 12 m/s.",
+   "title": "Keltainen tuulivaroitus maa-alueille: Paikoin koko maa, ti 9.00 - 18.00",
+   "desc": "Tuulivaroitus maa-alueille: Luoteistuuli on voimakasta päivällä, tuulen nopeus puuskissa 15 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Suomenlahti ja Pohjois-Itämeri, ma 20.00 - ti 0.00",
+   "desc": "Huomautus veneilijöille: Lounaistuulta aluksi 12 m/s.",
    "lvl": 1
   },
   {
    "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 6.00 - ke 0.00",
    "desc": "Kovan tuulen varoitus: Luoteistuulta aamusta alkaen 14 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus maa-alueille: Paikoin koko maa, ti 9.00 - 18.00",
-   "desc": "Tuulivaroitus maa-alueille: Luoteistuuli on voimakasta päivällä, tuulen nopeus puuskissa 15 m/s.",
    "lvl": 1
   },
   {
