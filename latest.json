@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T20:28+00:00",
+ "updated": "2026-08-10T23:22+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -36,13 +36,8 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Suomenlahti ja Pohjois-Itämeri, ma 20.00 - ti 0.00",
-   "desc": "Huomautus veneilijöille: Lounaistuulta aluksi 12 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 6.00 - ke 0.00",
-   "desc": "Kovan tuulen varoitus: Luoteistuulta aamusta alkaen 14 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 9.00 - ke 0.00",
+   "desc": "Kovan tuulen varoitus: Luoteistuulta aamupäivästä alkaen 14 m/s.",
    "lvl": 1
   },
   {
