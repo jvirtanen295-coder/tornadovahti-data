@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T20:32+00:00",
+ "updated": "2026-08-11T23:27+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -31,13 +31,13 @@
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Saimaan eteläosa sekä paikoin kaikki merialueet, ke 0.00 - 18.00",
-   "desc": "Huomautus veneilijöille: Luoteistuulta aluksi 12 m/s.",
+   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Saimaan eteläosa sekä paikoin kaikki merialueet, ke 0.00 - 18.00",
+   "desc": "POISTETTU: Huomautus veneilijöille: Luoteistuulta aluksi 12 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri ja Selkämeri, ti 20.28 - ke 0.00",
-   "desc": "Kovan tuulen varoitus: Luoteistuulta aluksi 14 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Saimaan eteläosa sekä paikoin kaikki merialueet, ke 0.01 - 17.00",
+   "desc": "Huomautus veneilijöille: Luoteistuulta aluksi 12 m/s.",
    "lvl": 1
   }
  ],
