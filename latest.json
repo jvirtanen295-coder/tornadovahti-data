@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T20:10+00:00",
+ "updated": "2026-08-13T23:28+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -31,7 +31,7 @@
  ],
  "warnings": [
   {
-   "title": "Keltainen raju ukonilma: Etelä-Savo sekä paikoin maan länsiosa, su 13.00 - 21.00",
+   "title": "Keltainen raju ukonilma: Etelä-Savo sekä paikoin maan länsiosa, su 12.00 - 21.00",
    "desc": "Varoitus rajusta ukonilmasta: Sunnuntaina päivällä ja illalla voi esiintyä ukkoskuuroja, joiden yhteydessä voimakkaiden ukkospuuskien todennäköisyys on 30 %.",
    "lvl": 1
   }
