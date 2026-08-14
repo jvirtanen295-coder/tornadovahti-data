@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T15:14+00:00",
+ "updated": "2026-08-14T18:14+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -36,13 +36,13 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri ja Selkämeri, su 11.00 - 20.00",
-   "desc": "Kovan tuulen varoitus: Kovan luoteistuulen todennäköisyys on 30 % sunnuntaina päivällä ja illalla.",
+   "title": "Keltainen sadevaroitus: Paikoin maan länsiosa, su 15.00 - 21.00",
+   "desc": "Sadevaroitus: Runsaiden sateiden todennäköisyys on 20 % sunnuntaina päivällä ja illalla.",
    "lvl": 1
   },
   {
-   "title": "Keltainen sadevaroitus: Paikoin maan länsiosa, su 15.00 - 21.00",
-   "desc": "Sadevaroitus: Runsaiden sateiden todennäköisyys on 20 % sunnuntaina päivällä ja illalla.",
+   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri ja Selkämeri, su 11.00 - 20.00",
+   "desc": "Kovan tuulen varoitus: Kovan luoteistuulen todennäköisyys on 30 % sunnuntaina päivällä ja illalla.",
    "lvl": 1
   }
  ],
