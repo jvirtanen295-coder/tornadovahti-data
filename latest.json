@@ -1,35 +1,45 @@
 {
- "updated": "2026-08-14T09:48+00:00",
+ "updated": "2026-08-14T15:14+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-08-14",
-   "shear": 14.3,
+   "shear": 15.2,
    "srh": null,
-   "li": 0.5
+   "li": 0.1
   },
   {
    "date": "2026-08-15",
-   "shear": 12.1,
+   "shear": 12.2,
    "srh": null,
-   "li": -1.0
+   "li": -1.2
   },
   {
    "date": "2026-08-16",
-   "shear": 9.2,
+   "shear": 12.6,
    "srh": null,
-   "li": -3.2
+   "li": -4.0
   },
   {
    "date": "2026-08-17",
-   "shear": 4.0,
+   "shear": 5.5,
    "srh": null,
    "li": 2.3
   }
  ],
  "warnings": [
+  {
+   "title": "Keltainen aallokkovaroitus: Selkämeren eteläosa, su 15.00 - 21.00",
+   "desc": "Aallokkovaroitus: Sunnuntaina päivällä ja illalla kohtalaisen aallokon todennäköisyys on 20 %. Merkitsevä aallonkorkeus voi ylittää 2,5 metriä.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri ja Selkämeri, su 11.00 - 20.00",
+   "desc": "Kovan tuulen varoitus: Kovan luoteistuulen todennäköisyys on 30 % sunnuntaina päivällä ja illalla.",
+   "lvl": 1
+  },
   {
    "title": "Keltainen sadevaroitus: Paikoin maan länsiosa, su 15.00 - 21.00",
    "desc": "Sadevaroitus: Runsaiden sateiden todennäköisyys on 20 % sunnuntaina päivällä ja illalla.",
