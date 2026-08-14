@@ -1,38 +1,38 @@
 {
- "updated": "2026-08-14T05:52+00:00",
+ "updated": "2026-08-14T09:48+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-08-13",
-   "shear": 18.4,
-   "srh": null,
-   "li": 5.4
-  },
-  {
    "date": "2026-08-14",
-   "shear": 14.6,
+   "shear": 14.3,
    "srh": null,
-   "li": 0.2
+   "li": 0.5
   },
   {
    "date": "2026-08-15",
-   "shear": 12.8,
+   "shear": 12.1,
    "srh": null,
-   "li": -1.5
+   "li": -1.0
   },
   {
    "date": "2026-08-16",
-   "shear": 8.7,
+   "shear": 9.2,
    "srh": null,
    "li": -3.2
+  },
+  {
+   "date": "2026-08-17",
+   "shear": 4.0,
+   "srh": null,
+   "li": 2.3
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen raju ukonilma: Etelä-Savo sekä paikoin maan länsiosa, su 12.00 - 21.00",
-   "desc": "Varoitus rajusta ukonilmasta: Sunnuntaina päivällä ja illalla voi esiintyä ukkoskuuroja, joiden yhteydessä voimakkaiden ukkospuuskien todennäköisyys on 30 %.",
+   "title": "Keltainen sadevaroitus: Paikoin maan länsiosa, su 15.00 - 21.00",
+   "desc": "Sadevaroitus: Runsaiden sateiden todennäköisyys on 20 % sunnuntaina päivällä ja illalla.",
    "lvl": 1
   }
  ],
