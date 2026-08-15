@@ -1,38 +1,38 @@
 {
- "updated": "2026-08-15T04:57+00:00",
+ "updated": "2026-08-15T07:58+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-08-14",
-   "shear": 14.6,
+   "date": "2026-08-15",
+   "shear": 11.7,
+   "srh": null,
+   "li": -2.2
+  },
+  {
+   "date": "2026-08-16",
+   "shear": 10.8,
+   "srh": null,
+   "li": -3.8
+  },
+  {
+   "date": "2026-08-17",
+   "shear": 6.0,
    "srh": null,
    "li": 1.6
   },
   {
-   "date": "2026-08-15",
-   "shear": 10.4,
+   "date": "2026-08-18",
+   "shear": 8.2,
    "srh": null,
-   "li": -1.1
-  },
-  {
-   "date": "2026-08-16",
-   "shear": 10.7,
-   "srh": null,
-   "li": -4.6
-  },
-  {
-   "date": "2026-08-17",
-   "shear": 7.0,
-   "srh": null,
-   "li": 1.1
+   "li": 2.5
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen sadevaroitus: Paikoin maan länsiosa, su 12.00 - 21.00",
-   "desc": "Sadevaroitus: Runsaiden sateiden todennäköisyys on 20 % sunnuntaina päivällä ja illalla.",
+   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri ja Selkämeri, su 12.00 - 21.00",
+   "desc": "Kovan tuulen varoitus: Kovan luoteistuulen todennäköisyys on 30 % sunnuntaina päivällä ja illalla.",
    "lvl": 1
   },
   {
@@ -41,8 +41,8 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri ja Selkämeri, su 12.00 - 21.00",
-   "desc": "Kovan tuulen varoitus: Kovan luoteistuulen todennäköisyys on 30 % sunnuntaina päivällä ja illalla.",
+   "title": "Keltainen sadevaroitus: Paikoin maan länsiosa, su 12.00 - 21.00",
+   "desc": "Sadevaroitus: Runsaiden sateiden todennäköisyys on 20 % sunnuntaina päivällä ja illalla.",
    "lvl": 1
   }
  ],
