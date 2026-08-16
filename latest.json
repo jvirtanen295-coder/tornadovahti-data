@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T21:58+00:00",
+ "updated": "2026-08-16T03:32+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -8,28 +8,33 @@
    "date": "2026-08-15",
    "shear": 10.1,
    "srh": null,
-   "li": -3.4
+   "li": -1.7
   },
   {
    "date": "2026-08-16",
-   "shear": 11.8,
+   "shear": 10.9,
    "srh": null,
-   "li": -2.6
+   "li": -2.9
   },
   {
    "date": "2026-08-17",
-   "shear": 5.3,
+   "shear": 4.7,
    "srh": null,
-   "li": 1.3
+   "li": 1.4
   },
   {
    "date": "2026-08-18",
-   "shear": 12.4,
+   "shear": 9.5,
    "srh": null,
-   "li": -0.7
+   "li": 0.5
   }
  ],
  "warnings": [
+  {
+   "title": "Keltainen sadevaroitus: Paikoin maan länsiosa, su 12.00 - 21.00",
+   "desc": "Sadevaroitus: Iltapäivällä ja illalla voi sataa rankasti, yli 20 mm tunnissa.",
+   "lvl": 1
+  },
   {
    "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri ja Selkämeri, su 12.00 - ma 0.00",
    "desc": "Kovan tuulen varoitus: Luoteistuulta keskipäivästä alkaen 14 m/s.",
@@ -38,11 +43,6 @@
   {
    "title": "Keltainen aallokkovaroitus: Selkämeren eteläosa, su 15.00 - 21.00",
    "desc": "Aallokkovaroitus: Iltapäivällä ja illalla esiintyy kohtalaista aallokkoa, jossa merkitsevä aallonkorkeus ylittää 2,5 metriä.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen sadevaroitus: Paikoin maan länsiosa, su 12.00 - 21.00",
-   "desc": "Sadevaroitus: Iltapäivällä ja illalla voi sataa rankasti, yli 20 mm tunnissa.",
    "lvl": 1
   }
  ],
