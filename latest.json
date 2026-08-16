@@ -1,47 +1,47 @@
 {
- "updated": "2026-08-16T10:02+00:00",
+ "updated": "2026-08-16T13:50+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-08-16",
-   "shear": 10.1,
+   "shear": 9.9,
    "srh": null,
-   "li": -3.6
+   "li": -4.1
   },
   {
    "date": "2026-08-17",
    "shear": 5.0,
    "srh": null,
-   "li": 1.4
+   "li": 1.1
   },
   {
    "date": "2026-08-18",
-   "shear": 6.9,
+   "shear": 7.1,
    "srh": null,
-   "li": 0.7
+   "li": 1.1
   },
   {
    "date": "2026-08-19",
-   "shear": 8.4,
+   "shear": 9.1,
    "srh": null,
-   "li": 5.0
+   "li": 1.2
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen aallokkovaroitus: Selkämeren eteläosa, su 15.00 - 21.00",
-   "desc": "Aallokkovaroitus: Aluksi esiintyy kohtalaista aallokkoa, jossa merkitsevä aallonkorkeus ylittää 2,5 metriä.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen sadevaroitus: Paikoin maan länsiosa, su 11.58 - 21.00",
+   "title": "Keltainen sadevaroitus: Paikoin maan keskiosa sekä Pohjois-Pohjanmaa, su 14.59 - ma 0.00",
    "desc": "Sadevaroitus: Aluksi voi sataa rankasti, yli 20 mm tunnissa.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri ja Selkämeri, su 11.58 - ma 0.00",
+   "title": "Keltainen aallokkovaroitus: Ahvenanmeri ja Selkämeren eteläosa, su 21.00 - ma 9.00",
+   "desc": "Aallokkovaroitus: Iltayöstä alkaen esiintyy kohtalaista aallokkoa, jossa merkitsevä aallonkorkeus ylittää 2,5 metriä.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 14.59 - ma 9.00",
    "desc": "Kovan tuulen varoitus: Luoteistuulta aluksi 14 m/s.",
    "lvl": 1
   }
