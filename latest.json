@@ -1,40 +1,34 @@
 {
- "updated": "2026-08-17T10:58+00:00",
+ "updated": "2026-08-17T14:05+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-08-17",
-   "shear": 6.9,
+   "shear": 6.7,
    "srh": null,
-   "li": 0.5
+   "li": 1.0
   },
   {
    "date": "2026-08-18",
-   "shear": 11.2,
+   "shear": 10.6,
    "srh": null,
-   "li": -0.2
+   "li": 0.0
   },
   {
    "date": "2026-08-19",
-   "shear": 12.6,
+   "shear": 11.1,
    "srh": null,
-   "li": 2.4
+   "li": 0.9
   },
   {
    "date": "2026-08-20",
-   "shear": 5.1,
+   "shear": 9.0,
    "srh": null,
-   "li": 10.9
+   "li": 2.8
   }
  ],
- "warnings": [
-  {
-   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Ahvenanmeri ja Selkämeri, ma 8.57 - 12.00",
-   "desc": "POISTETTU: Huomautus veneilijöille: Luoteistuulta aluksi 13 m/s.",
-   "lvl": 1
-  }
- ],
+ "warnings": [],
  "warnings_ok": true
 }
