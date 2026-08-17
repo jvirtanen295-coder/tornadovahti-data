@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T19:58+00:00",
+ "updated": "2026-08-17T22:03+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -29,6 +29,12 @@
    "li": 0.6
   }
  ],
- "warnings": [],
+ "warnings": [
+  {
+   "title": "Keltainen maastopalovaroitus: Paikoin maan länsiosa, la 0.00 - 23.59",
+   "desc": "Maastopalojen vaara on suuri perjantain ja lauantain välisestä yöstä lauantain ja sunnuntain väliseen yöhön 20 % todennäköisyydellä.",
+   "lvl": 1
+  }
+ ],
  "warnings_ok": true
 }
