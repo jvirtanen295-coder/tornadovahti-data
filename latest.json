@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T14:23+00:00",
+ "updated": "2026-08-20T17:04+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -32,7 +32,7 @@
  "warnings": [
   {
    "title": "Keltainen tuulivaroitus merelle: Suomenlahden itäosa, pe 0.00 - 6.00",
-   "desc": "Huomautus veneilijöille: Lounaistuulta yöllä 12 m/s.",
+   "desc": "Huomautus veneilijöille: Lounaistuulta aluksi 12 m/s.",
    "lvl": 1
   }
  ],
