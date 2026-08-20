@@ -1,45 +1,34 @@
 {
- "updated": "2026-08-19T22:56+00:00",
+ "updated": "2026-08-20T03:29+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-08-19",
-   "shear": 9.9,
+   "shear": 9.2,
    "srh": null,
-   "li": -0.8
+   "li": 3.3
   },
   {
    "date": "2026-08-20",
-   "shear": 10.3,
+   "shear": 10.4,
    "srh": null,
-   "li": 0.4
+   "li": 1.4
   },
   {
    "date": "2026-08-21",
-   "shear": 6.5,
+   "shear": 7.6,
    "srh": null,
    "li": -1.6
   },
   {
    "date": "2026-08-22",
-   "shear": 7.8,
+   "shear": 11.0,
    "srh": null,
-   "li": -1.3
+   "li": -2.2
   }
  ],
- "warnings": [
-  {
-   "title": "POISTETTU: Keltainen maastopalovaroitus: Paikoin maan länsiosa, la 0.00 - 23.59",
-   "desc": "POISTETTU: Maastopalojen vaara on suuri perjantain ja lauantain välisestä yöstä lauantain ja sunnuntain väliseen yöhön 20 % todennäköisyydellä.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen raju ukonilma: Paikoin kaikki merialueet, to 3.00 - 15.00",
-   "desc": "Huomautus veneilijöille: Aluksi ukkospuuskia.",
-   "lvl": 1
-  }
- ],
+ "warnings": [],
  "warnings_ok": true
 }
