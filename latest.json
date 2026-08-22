@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T13:16+00:00",
+ "updated": "2026-08-22T15:43+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -31,13 +31,13 @@
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 5.00 - 21.00",
-   "desc": "Kovan tuulen varoitus: Pohjoistuulta aamuyöstä alkaen 16 m/s.",
+   "title": "Keltainen aallokkovaroitus: Paikoin kaikki merialueet, su 6.00 - 21.00",
+   "desc": "Aallokkovaroitus: Aamusta alkaen esiintyy kohtalaista aallokkoa, jossa merkitsevä aallonkorkeus ylittää 3 metriä.",
    "lvl": 1
   },
   {
-   "title": "Keltainen aallokkovaroitus: Paikoin kaikki merialueet, su 6.00 - 21.00",
-   "desc": "Aallokkovaroitus: Aamusta alkaen esiintyy kohtalaista aallokkoa, jossa merkitsevä aallonkorkeus ylittää 3 metriä.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 5.00 - 21.00",
+   "desc": "Kovan tuulen varoitus: Pohjoistuulta aamuyöstä alkaen 16 m/s.",
    "lvl": 1
   }
  ],
