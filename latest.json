@@ -1,32 +1,32 @@
 {
- "updated": "2026-08-22T21:43+00:00",
+ "updated": "2026-08-23T02:07+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-08-22",
-   "shear": 9.3,
+   "shear": 9.7,
    "srh": null,
-   "li": -0.2
+   "li": 3.7
   },
   {
    "date": "2026-08-23",
-   "shear": 9.7,
+   "shear": 9.6,
    "srh": null,
-   "li": -0.7
+   "li": -0.4
   },
   {
    "date": "2026-08-24",
-   "shear": 13.9,
+   "shear": 15.1,
    "srh": null,
-   "li": 1.0
+   "li": 1.2
   },
   {
    "date": "2026-08-25",
-   "shear": 13.9,
+   "shear": 14.1,
    "srh": null,
-   "li": 3.7
+   "li": 3.1
   }
  ],
  "warnings": [
