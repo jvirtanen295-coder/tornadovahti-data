@@ -1,48 +1,53 @@
 {
- "updated": "2026-08-23T18:55+00:00",
+ "updated": "2026-08-23T21:43+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-08-23",
-   "shear": 7.8,
+   "shear": 6.4,
    "srh": null,
-   "li": -0.2
+   "li": -1.0
   },
   {
    "date": "2026-08-24",
-   "shear": 12.9,
+   "shear": 14.2,
    "srh": null,
-   "li": 1.5
+   "li": 2.2
   },
   {
    "date": "2026-08-25",
-   "shear": 12.8,
+   "shear": 12.5,
    "srh": null,
-   "li": 4.7
+   "li": 4.4
   },
   {
    "date": "2026-08-26",
-   "shear": 10.4,
+   "shear": 9.7,
    "srh": null,
-   "li": 7.7
+   "li": 2.1
   }
  ],
  "warnings": [
   {
-   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Suomenlahti ja Selkämeren eteläosa, su 17.43 - ma 0.00",
-   "desc": "POISTETTU: Kovan tuulen varoitus: Pohjoisen ja luoteen välistä tuulta aluksi 14 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ma 0.00 - 18.00",
+   "desc": "Huomautus veneilijöille: Luoteistuulta aluksi 11 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Saimaa sekä paikoin kaikki merialueet, ma 0.00 - 18.00",
-   "desc": "Huomautus veneilijöille: Luoteistuulta aluksi 12 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Saimaa sekä paikoin kaikki merialueet, ma 0.00 - 6.00",
+   "desc": "Huomautus veneilijöille: Pohjoisen ja luoteen välistä tuulta aluksi 11 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 20.10 - ma 0.00",
-   "desc": "Huomautus veneilijöille: Pohjoisen ja luoteen välistä tuulta aluksi 12 m/s.",
+   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, pe 0.00 - 21.57",
+   "desc": "Maastopalojen vaara on suuri torstain ja perjantain välisestä yöstä perjantai-iltaan 20 % todennäköisyydellä.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, to 0.00 - pe 0.00",
+   "desc": "Maastopalojen vaara on suuri keskiviikon ja torstain välisestä yöstä torstain ja perjantain väliseen yöhön 20 % todennäköisyydellä.",
    "lvl": 1
   }
  ],
