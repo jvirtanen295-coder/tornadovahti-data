@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T02:07+00:00",
+ "updated": "2026-08-23T04:08+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -31,13 +31,23 @@
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 5.00 - 21.00",
-   "desc": "Kovan tuulen varoitus: Pohjoistuulta aamuyöstä alkaen 16 m/s.",
+   "title": "POISTETTU: Keltainen aallokkovaroitus: Paikoin kaikki merialueet, su 6.00 - 21.00",
+   "desc": "POISTETTU: Aallokkovaroitus: Aamusta alkaen esiintyy kohtalaista aallokkoa, jossa merkitsevä aallonkorkeus ylittää 3 metriä.",
    "lvl": 1
   },
   {
-   "title": "Keltainen aallokkovaroitus: Paikoin kaikki merialueet, su 6.00 - 21.00",
-   "desc": "Aallokkovaroitus: Aamusta alkaen esiintyy kohtalaista aallokkoa, jossa merkitsevä aallonkorkeus ylittää 3 metriä.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 5.12 - 21.00",
+   "desc": "Kovan tuulen varoitus: Pohjoisen ja luoteen välistä tuulta aluksi 15 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen aallokkovaroitus: Paikoin kaikki merialueet, su 5.12 - 21.00",
+   "desc": "Aallokkovaroitus: Aluksi esiintyy kohtalaista aallokkoa, jossa merkitsevä aallonkorkeus ylittää 3 metriä.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Saimaa sekä paikoin kaikki merialueet, ma 2.00 - 15.00",
+   "desc": "Huomautus veneilijöille: Luoteistuulta yöstä alkaen 12 m/s.",
    "lvl": 1
   }
  ],
