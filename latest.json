@@ -1,43 +1,38 @@
 {
- "updated": "2026-08-24T07:37+00:00",
+ "updated": "2026-08-24T10:10+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-08-23",
-   "shear": 5.6,
-   "srh": null,
-   "li": 3.7
-  },
-  {
    "date": "2026-08-24",
    "shear": 15.5,
    "srh": null,
-   "li": 0.5
+   "li": 1.5
   },
   {
    "date": "2026-08-25",
-   "shear": 12.9,
+   "shear": 13.4,
    "srh": null,
-   "li": 3.4
+   "li": 5.0
   },
   {
    "date": "2026-08-26",
-   "shear": 8.4,
+   "shear": 7.2,
    "srh": null,
-   "li": 2.6
+   "li": 2.1
+  },
+  {
+   "date": "2026-08-27",
+   "shear": 7.3,
+   "srh": null,
+   "li": 11.4
   }
  ],
  "warnings": [
   {
    "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, to 0.00 - pe 0.00",
    "desc": "Maastopalojen vaara on suuri keskiviikon ja torstain välisestä yöstä torstain ja perjantain väliseen yöhön 20 % todennäköisyydellä.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Saimaa sekä paikoin kaikki merialueet, ma 8.32 - 18.00",
-   "desc": "Huomautus veneilijöille: Luoteistuulta aluksi 11 m/s.",
    "lvl": 1
   },
   {
