@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T13:27+00:00",
+ "updated": "2026-08-24T16:01+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -41,8 +41,8 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ma 14.39 - 21.00",
-   "desc": "Huomautus veneilijöille: Pohjoisen ja luoteen välistä tuulta aluksi 11 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Saimaa sekä paikoin kaikki merialueet, ma 17.33 - 21.00",
+   "desc": "Huomautus veneilijöille: Luoteistuulta aluksi 11 m/s.",
    "lvl": 1
   }
  ],
