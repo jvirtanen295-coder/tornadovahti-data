@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T01:58+00:00",
+ "updated": "2026-08-25T04:07+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -36,12 +36,12 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, ke 0.00 - to 0.00",
+   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, ti 5.07 - ke 0.00",
    "desc": "Maastopalovaroitus on voimassa.",
    "lvl": 1
   },
   {
-   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, ti 0.02 - ke 0.00",
+   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, ke 0.00 - to 0.00",
    "desc": "Maastopalovaroitus on voimassa.",
    "lvl": 1
   },
