@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T16:06+00:00",
+ "updated": "2026-08-25T19:06+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -31,13 +31,8 @@
  ],
  "warnings": [
   {
-   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, ti 17.30 - ke 0.00",
+   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, ke 0.00 - to 0.00",
    "desc": "Maastopalovaroitus on voimassa.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, pe 0.00 - la 0.00",
-   "desc": "Maastopalojen vaara on suuri torstain ja perjantain välisestä yöstä perjantain ja lauantain väliseen yöhön 40 % todennäköisyydellä.",
    "lvl": 1
   },
   {
@@ -46,13 +41,18 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, ke 0.00 - to 0.00",
+   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, ti 20.06 - ke 0.00",
    "desc": "Maastopalovaroitus on voimassa.",
    "lvl": 1
   },
   {
    "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, to 0.00 - pe 0.00",
    "desc": "Maastopalojen vaara on suuri keskiviikon ja torstain välisestä yöstä torstain ja perjantain väliseen yöhön 60 % todennäköisyydellä.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, pe 0.00 - la 0.00",
+   "desc": "Maastopalojen vaara on suuri torstain ja perjantain välisestä yöstä perjantain ja lauantain väliseen yöhön 40 % todennäköisyydellä.",
    "lvl": 1
   }
  ],
