@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T02:06+00:00",
+ "updated": "2026-08-26T04:09+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -36,23 +36,23 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen maastopalovaroitus: Paikoin maan länsiosa, la 0.00 - su 0.00",
-   "desc": "Maastopalojen vaara on suuri perjantain ja lauantain välisestä yöstä lauantain ja sunnuntain väliseen yöhön 20 % todennäköisyydellä.",
-   "lvl": 1
-  },
-  {
    "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, to 0.00 - pe 0.00",
    "desc": "Maastopalovaroitus on voimassa.",
    "lvl": 1
   },
   {
-   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, ke 0.02 - to 0.00",
-   "desc": "Maastopalovaroitus on voimassa.",
+   "title": "Keltainen maastopalovaroitus: Paikoin maan länsiosa, la 0.00 - su 0.00",
+   "desc": "Maastopalojen vaara on suuri perjantain ja lauantain välisestä yöstä lauantain ja sunnuntain väliseen yöhön 20 % todennäköisyydellä.",
    "lvl": 1
   },
   {
    "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, la 9.00 - su 0.00",
    "desc": "Kovan tuulen varoitus: Kovan kaakkoistuulen todennäköisyys on 30 % lauantaiaamusta lauantain ja sunnuntain väliseen yöhön.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, ke 5.07 - to 0.00",
+   "desc": "Maastopalovaroitus on voimassa.",
    "lvl": 1
   }
  ],
