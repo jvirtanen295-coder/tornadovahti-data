@@ -1,32 +1,32 @@
 {
- "updated": "2026-08-27T00:55+00:00",
+ "updated": "2026-08-27T14:23+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-08-26",
-   "shear": 5.5,
-   "srh": null,
-   "li": 6.0
-  },
-  {
    "date": "2026-08-27",
-   "shear": 9.3,
+   "shear": 9.9,
    "srh": null,
-   "li": 2.3
+   "li": 2.8
   },
   {
    "date": "2026-08-28",
-   "shear": 9.7,
+   "shear": 10.0,
    "srh": null,
-   "li": 2.9
+   "li": 3.7
   },
   {
    "date": "2026-08-29",
-   "shear": 16.5,
+   "shear": 18.2,
    "srh": null,
-   "li": 7.3
+   "li": 7.0
+  },
+  {
+   "date": "2026-08-30",
+   "shear": 13.7,
+   "srh": null,
+   "li": 6.7
   }
  ],
  "warnings": [
@@ -36,23 +36,18 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen aallokkovaroitus: Paikoin kaikki merialueet, la 12.00 - su 0.00",
-   "desc": "Aallokkovaroitus: Lauantaipäivästä lauantain ja sunnuntain väliseen yöhön kohtalaisen aallokon todennäköisyys on 40 %. Merkitsevä aallonkorkeus voi ylittää 2,5 metriä.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, la 9.00 - su 0.00",
-   "desc": "Kovan tuulen varoitus: Kovan kaakkoistuulen todennäköisyys on 30 % lauantaiaamusta lauantain ja sunnuntain väliseen yöhön.",
-   "lvl": 1
-  },
-  {
    "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, pe 0.00 - la 0.00",
    "desc": "Maastopalovaroitus on voimassa.",
    "lvl": 1
   },
   {
-   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, to 0.01 - pe 0.00",
+   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, to 15.02 - pe 0.00",
    "desc": "Maastopalovaroitus on voimassa.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, la 9.00 - su 0.00",
+   "desc": "Kovan tuulen varoitus: Kovan kaakkoistuulen todennäköisyys on 30 % lauantaiaamusta lauantain ja sunnuntain väliseen yöhön.",
    "lvl": 1
   }
  ],
