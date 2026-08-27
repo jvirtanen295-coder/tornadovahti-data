@@ -1,48 +1,38 @@
 {
- "updated": "2026-08-26T20:16+00:00",
+ "updated": "2026-08-27T00:55+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-08-26",
-   "shear": 7.3,
+   "shear": 5.5,
    "srh": null,
-   "li": 2.8
+   "li": 6.0
   },
   {
    "date": "2026-08-27",
-   "shear": 9.4,
+   "shear": 9.3,
    "srh": null,
-   "li": 3.1
+   "li": 2.3
   },
   {
    "date": "2026-08-28",
-   "shear": 8.6,
+   "shear": 9.7,
    "srh": null,
-   "li": 2.2
+   "li": 2.9
   },
   {
    "date": "2026-08-29",
-   "shear": 12.4,
+   "shear": 16.5,
    "srh": null,
-   "li": 7.6
+   "li": 7.3
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, la 9.00 - su 0.00",
-   "desc": "Kovan tuulen varoitus: Kovan kaakkoistuulen todennäköisyys on 30 % lauantaiaamusta lauantain ja sunnuntain väliseen yöhön.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, ke 20.31 - to 0.00",
-   "desc": "Maastopalovaroitus on voimassa.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, to 0.00 - pe 0.00",
-   "desc": "Maastopalovaroitus on voimassa.",
+   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, la 0.00 - su 0.00",
+   "desc": "Maastopalojen vaara on suuri perjantain ja lauantain välisestä yöstä lauantain ja sunnuntain väliseen yöhön 20 % todennäköisyydellä.",
    "lvl": 1
   },
   {
@@ -51,8 +41,18 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen maastopalovaroitus: Paikoin maan länsiosa, la 0.00 - su 0.00",
-   "desc": "Maastopalojen vaara on suuri perjantain ja lauantain välisestä yöstä lauantain ja sunnuntain väliseen yöhön 20 % todennäköisyydellä.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, la 9.00 - su 0.00",
+   "desc": "Kovan tuulen varoitus: Kovan kaakkoistuulen todennäköisyys on 30 % lauantaiaamusta lauantain ja sunnuntain väliseen yöhön.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, pe 0.00 - la 0.00",
+   "desc": "Maastopalovaroitus on voimassa.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, to 0.01 - pe 0.00",
+   "desc": "Maastopalovaroitus on voimassa.",
    "lvl": 1
   }
  ],
