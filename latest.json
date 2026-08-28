@@ -1,53 +1,58 @@
 {
- "updated": "2026-08-27T14:23+00:00",
+ "updated": "2026-08-28T00:30+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-08-27",
-   "shear": 9.9,
+   "shear": 9.7,
    "srh": null,
-   "li": 2.8
+   "li": 4.4
   },
   {
    "date": "2026-08-28",
-   "shear": 10.0,
+   "shear": 11.0,
    "srh": null,
-   "li": 3.7
+   "li": 3.2
   },
   {
    "date": "2026-08-29",
-   "shear": 18.2,
+   "shear": 15.8,
    "srh": null,
-   "li": 7.0
+   "li": 7.7
   },
   {
    "date": "2026-08-30",
-   "shear": 13.7,
+   "shear": 14.4,
    "srh": null,
-   "li": 6.7
+   "li": -1.3
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, la 0.00 - su 0.00",
-   "desc": "Maastopalojen vaara on suuri perjantain ja lauantain välisestä yöstä lauantain ja sunnuntain väliseen yöhön 20 % todennäköisyydellä.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, pe 0.00 - la 0.00",
+   "title": "Keltainen maastopalovaroitus: Satakunta, la 0.00 - su 0.00",
    "desc": "Maastopalovaroitus on voimassa.",
    "lvl": 1
   },
   {
-   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, to 15.02 - pe 0.00",
+   "title": "Keltainen aallokkovaroitus: Paikoin kaikki merialueet, la 11.00 - 18.00",
+   "desc": "Aallokkovaroitus: Lauantaina päivällä ja illalla kohtalaisen aallokon todennäköisyys on 40 %. Merkitsevä aallonkorkeus voi ylittää 2,5 metriä.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen maastopalovaroitus: Ahvenanmaa ja Satakunta, pe 0.01 - la 0.00",
    "desc": "Maastopalovaroitus on voimassa.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, la 9.00 - su 0.00",
-   "desc": "Kovan tuulen varoitus: Kovan kaakkoistuulen todennäköisyys on 30 % lauantaiaamusta lauantain ja sunnuntain väliseen yöhön.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeri, la 18.00 - su 0.00",
+   "desc": "Kovan tuulen varoitus: Kovan kaakkoistuulen todennäköisyys on 40 % lauantaina illalla ja lauantain ja sunnuntain välisenä yönä.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Selkämeri, la 12.00 - 18.00",
+   "desc": "Kovan tuulen varoitus: Kovan kaakkoistuulen todennäköisyys on 40 % lauantaina päivällä ja illalla.",
    "lvl": 1
   }
  ],
