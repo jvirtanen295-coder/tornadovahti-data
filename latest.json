@@ -1,34 +1,45 @@
 {
- "updated": "2026-08-30T05:34+00:00",
+ "updated": "2026-08-30T12:04+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-08-29",
-   "shear": 13.4,
-   "srh": null,
-   "li": 7.0
-  },
-  {
    "date": "2026-08-30",
-   "shear": 13.4,
+   "shear": 15.1,
    "srh": null,
-   "li": -0.2
+   "li": -0.5
   },
   {
    "date": "2026-08-31",
-   "shear": 12.1,
+   "shear": 10.7,
    "srh": null,
-   "li": 0.2
+   "li": -0.4
   },
   {
    "date": "2026-09-01",
-   "shear": 6.4,
+   "shear": 6.2,
    "srh": null,
-   "li": -0.9
+   "li": -2.3
+  },
+  {
+   "date": "2026-09-02",
+   "shear": 4.4,
+   "srh": null,
+   "li": 7.3
   }
  ],
- "warnings": [],
+ "warnings": [
+  {
+   "title": "Keltainen sadevaroitus: Paikoin maan länsiosa, ma 9.00 - 15.00",
+   "desc": "Sadevaroitus: Päivällä voi sataa rankasti, yli 20 mm tunnissa.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Suomenlahti ja Pohjois-Itämeren itäosa, ma 7.00 - 15.00",
+   "desc": "Huomautus veneilijöille: Lounaistuulta aamusta alkaen 12 m/s.",
+   "lvl": 1
+  }
+ ],
  "warnings_ok": true
 }
