@@ -1,40 +1,34 @@
 {
- "updated": "2026-08-29T23:28+00:00",
+ "updated": "2026-08-30T05:34+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-08-29",
-   "shear": 17.2,
+   "shear": 13.4,
    "srh": null,
-   "li": 6.0
+   "li": 7.0
   },
   {
    "date": "2026-08-30",
-   "shear": 12.9,
+   "shear": 13.4,
+   "srh": null,
+   "li": -0.2
+  },
+  {
+   "date": "2026-08-31",
+   "shear": 12.1,
    "srh": null,
    "li": 0.2
   },
   {
-   "date": "2026-08-31",
-   "shear": 10.5,
-   "srh": null,
-   "li": -0.4
-  },
-  {
    "date": "2026-09-01",
-   "shear": 8.7,
+   "shear": 6.4,
    "srh": null,
-   "li": -1.7
+   "li": -0.9
   }
  ],
- "warnings": [
-  {
-   "title": "POISTETTU: Keltainen maastopalovaroitus: Satakunta, su 0.00 - ma 0.00",
-   "desc": "POISTETTU: Maastopalovaroitus on voimassa.",
-   "lvl": 1
-  }
- ],
+ "warnings": [],
  "warnings_ok": true
 }
