@@ -1,38 +1,38 @@
 {
- "updated": "2026-08-30T23:38+00:00",
+ "updated": "2026-08-31T05:50+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-08-30",
-   "shear": 10.3,
+   "shear": 11.3,
    "srh": null,
-   "li": -1.3
+   "li": 2.4
   },
   {
    "date": "2026-08-31",
-   "shear": 13.5,
+   "shear": 11.6,
    "srh": null,
-   "li": -0.6
+   "li": -1.1
   },
   {
    "date": "2026-09-01",
-   "shear": 5.3,
+   "shear": 5.8,
    "srh": null,
-   "li": -2.1
+   "li": -2.5
   },
   {
    "date": "2026-09-02",
-   "shear": 4.5,
+   "shear": 9.6,
    "srh": null,
-   "li": -0.3
+   "li": 0.6
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen sadevaroitus: Paikoin maan länsiosa, ma 9.00 - 15.00",
-   "desc": "Sadevaroitus: Päivällä voi sataa rankasti, yli 20 mm tunnissa.",
+   "title": "Keltainen sadevaroitus: Paikoin maan länsiosa, ma 8.39 - 15.00",
+   "desc": "Sadevaroitus: Aluksi voi sataa rankasti, yli 20 mm tunnissa.",
    "lvl": 1
   }
  ],
