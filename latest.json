@@ -1,15 +1,9 @@
 {
- "updated": "2026-09-02T04:48+00:00",
+ "updated": "2026-09-02T11:32+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
-  {
-   "date": "2026-09-01",
-   "shear": 2.7,
-   "srh": null,
-   "li": 4.9
-  },
   {
    "date": "2026-09-02",
    "shear": 8.7,
@@ -18,17 +12,29 @@
   },
   {
    "date": "2026-09-03",
-   "shear": 11.3,
+   "shear": 12.5,
    "srh": null,
-   "li": -3.0
+   "li": -3.1
   },
   {
    "date": "2026-09-04",
-   "shear": 10.5,
+   "shear": 6.7,
    "srh": null,
-   "li": -0.3
+   "li": -0.9
+  },
+  {
+   "date": "2026-09-05",
+   "shear": 2.4,
+   "srh": null,
+   "li": 8.3
   }
  ],
- "warnings": [],
+ "warnings": [
+  {
+   "title": "Keltainen raju ukonilma: Paikoin maan etelä- ja keskiosa, to 12.00 - 18.00",
+   "desc": "Varoitus rajusta ukonilmasta: Torstaina päivällä ja illalla voi esiintyä ukkoskuuroja, joiden yhteydessä voimakkaiden ukkospuuskien todennäköisyys on 30 %.",
+   "lvl": 1
+  }
+ ],
  "warnings_ok": true
 }
