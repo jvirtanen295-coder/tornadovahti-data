@@ -1,38 +1,43 @@
 {
- "updated": "2026-09-02T11:32+00:00",
+ "updated": "2026-09-02T16:43+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-09-02",
-   "shear": 8.7,
+   "shear": 7.8,
    "srh": null,
-   "li": -2.6
+   "li": -2.8
   },
   {
    "date": "2026-09-03",
-   "shear": 12.5,
+   "shear": 11.3,
    "srh": null,
-   "li": -3.1
+   "li": -3.6
   },
   {
    "date": "2026-09-04",
-   "shear": 6.7,
+   "shear": 17.2,
    "srh": null,
-   "li": -0.9
+   "li": 0.4
   },
   {
    "date": "2026-09-05",
-   "shear": 2.4,
+   "shear": 8.4,
    "srh": null,
-   "li": 8.3
+   "li": 5.7
   }
  ],
  "warnings": [
   {
+   "title": "Keltainen tuulivaroitus merelle: Suomenlahti, to 12.00 - 21.00",
+   "desc": "Huomautus veneilijöille: Lounaistuulta iltapäivällä ja illalla 12 m/s.",
+   "lvl": 1
+  },
+  {
    "title": "Keltainen raju ukonilma: Paikoin maan etelä- ja keskiosa, to 12.00 - 18.00",
-   "desc": "Varoitus rajusta ukonilmasta: Torstaina päivällä ja illalla voi esiintyä ukkoskuuroja, joiden yhteydessä voimakkaiden ukkospuuskien todennäköisyys on 30 %.",
+   "desc": "Varoitus rajusta ukonilmasta: Iltapäivällä kehittyy ukkoskuuroja, joiden yhteydessä esiintyy voimakkaita ukkospuuskia, yli 15 m/s.",
    "lvl": 1
   }
  ],
