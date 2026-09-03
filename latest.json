@@ -1,40 +1,35 @@
 {
- "updated": "2026-09-02T23:24+00:00",
+ "updated": "2026-09-03T04:45+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-09-02",
-   "shear": 8.4,
+   "shear": 8.8,
    "srh": null,
-   "li": -2.9
+   "li": 0.2
   },
   {
    "date": "2026-09-03",
-   "shear": 13.0,
+   "shear": 12.8,
    "srh": null,
-   "li": -3.4
+   "li": -2.7
   },
   {
    "date": "2026-09-04",
-   "shear": 17.8,
+   "shear": 16.1,
    "srh": null,
-   "li": 0.5
+   "li": 0.2
   },
   {
    "date": "2026-09-05",
-   "shear": 6.2,
+   "shear": 6.5,
    "srh": null,
-   "li": 0.3
+   "li": 0.2
   }
  ],
  "warnings": [
-  {
-   "title": "Keltainen raju ukonilma: Paikoin koko maa, to 12.00 - 19.00",
-   "desc": "Varoitus rajusta ukonilmasta: Iltapäivällä kehittyy ukkoskuuroja, joiden yhteydessä esiintyy voimakkaita ukkospuuskia, yli 15 m/s.",
-   "lvl": 1
-  },
   {
    "title": "Keltainen tuulivaroitus merelle: Suomenlahti, to 14.00 - pe 0.00",
    "desc": "Huomautus veneilijöille: Lounaistuulta iltapäivästä alkaen 12 m/s.",
@@ -46,8 +41,13 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri ja Selkämeren eteläosa, to 0.02 - 11.00",
+   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri ja Selkämeren eteläosa, to 5.09 - 11.00",
    "desc": "Huomautus veneilijöille: Lännen ja lounaan välistä tuulta aluksi 12 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen raju ukonilma: Paikoin koko maa, to 12.00 - 19.00",
+   "desc": "Varoitus rajusta ukonilmasta: Iltapäivällä kehittyy ukkoskuuroja, joiden yhteydessä esiintyy voimakkaita ukkospuuskia, yli 15 m/s.",
    "lvl": 1
   }
  ],
