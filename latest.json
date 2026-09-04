@@ -1,48 +1,38 @@
 {
- "updated": "2026-09-04T04:46+00:00",
+ "updated": "2026-09-04T11:31+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-09-03",
-   "shear": 11.0,
+   "date": "2026-09-04",
+   "shear": 15.2,
    "srh": null,
-   "li": 1.9
+   "li": 0.5
   },
   {
-   "date": "2026-09-04",
-   "shear": 14.2,
+   "date": "2026-09-05",
+   "shear": 5.8,
    "srh": null,
    "li": -0.5
   },
   {
-   "date": "2026-09-05",
-   "shear": 6.0,
+   "date": "2026-09-06",
+   "shear": 11.9,
    "srh": null,
-   "li": -0.6
+   "li": 4.6
   },
   {
-   "date": "2026-09-06",
-   "shear": 16.9,
+   "date": "2026-09-07",
+   "shear": 18.7,
    "srh": null,
-   "li": 3.7
+   "li": 14.0
   }
  ],
  "warnings": [
   {
-   "title": "POISTETTU: Keltainen raju ukonilma: Selkämeri, pe 0.00 - 6.00",
-   "desc": "POISTETTU: Huomautus veneilijöille: Aluksi ukkospuuskia.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus maa-alueille: Maan etelä- ja keskiosa, ti 9.00 - 18.00",
+   "title": "Keltainen tuulivaroitus maa-alueille: Maan länsiosa, ti 9.00 - 18.00",
    "desc": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan lounaistuulen todennäköisyys on 20 % tiistaiaamusta tiistai-iltaan. Tuulen nopeus voi olla puuskissa 15 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus maa-alueille: Paikoin koko maa, su 9.00 - 21.00",
-   "desc": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan luoteistuulen todennäköisyys on 20 % sunnuntaiaamusta sunnuntai-iltaan. Tuulen nopeus voi olla puuskissa 15 m/s.",
    "lvl": 1
   }
  ],
