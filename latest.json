@@ -1,12 +1,12 @@
 {
- "updated": "2026-09-05T10:47+00:00",
+ "updated": "2026-09-05T15:22+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-09-05",
-   "shear": 8.1,
+   "shear": 7.0,
    "srh": null,
    "li": -0.5
   },
@@ -14,29 +14,24 @@
    "date": "2026-09-06",
    "shear": 12.4,
    "srh": null,
-   "li": 3.3
+   "li": 3.8
   },
   {
    "date": "2026-09-07",
-   "shear": 21.4,
+   "shear": 21.2,
    "srh": null,
-   "li": 6.0
+   "li": 4.8
   },
   {
    "date": "2026-09-08",
-   "shear": 10.9,
+   "shear": 16.4,
    "srh": null,
-   "li": 4.4
+   "li": 3.1
   }
  ],
  "warnings": [
   {
-   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Selkämeren eteläosa, la 15.00 - su 1.00",
-   "desc": "POISTETTU: Huomautus veneilijöille: Pohjoisen ja koillisen välistä tuulta iltapäivästä alkaen 12 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeri, la 11.37 - su 1.00",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeri, la 17.31 - su 0.00",
    "desc": "Huomautus veneilijöille: Pohjoisen ja koillisen välistä tuulta aluksi 12 m/s.",
    "lvl": 1
   },
