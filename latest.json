@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05T15:22+00:00",
+ "updated": "2026-09-05T17:27+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -31,7 +31,7 @@
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeri, la 17.31 - su 0.00",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeri, la 20.05 - su 0.00",
    "desc": "Huomautus veneilijöille: Pohjoisen ja koillisen välistä tuulta aluksi 12 m/s.",
    "lvl": 1
   },
