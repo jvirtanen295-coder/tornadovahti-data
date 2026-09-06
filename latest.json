@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06T20:33+00:00",
+ "updated": "2026-09-06T22:57+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -31,7 +31,7 @@
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 0.00 - 18.00",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 1.00 - 18.00",
    "desc": "Kovan tuulen varoitus: Kovan etelän ja lounaan välisen tuulen todennäköisyys on 30 % maanantain ja tiistain välisestä yöstä tiistai-iltaan.",
    "lvl": 1
   },
