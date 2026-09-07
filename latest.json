@@ -1,58 +1,53 @@
 {
- "updated": "2026-09-07T19:17+00:00",
+ "updated": "2026-09-07T23:37+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-09-07",
-   "shear": 22.2,
+   "shear": 16.1,
    "srh": null,
-   "li": 4.1
+   "li": 4.9
   },
   {
    "date": "2026-09-08",
-   "shear": 28.1,
+   "shear": 30.8,
    "srh": null,
-   "li": 0.8
+   "li": 2.6
   },
   {
    "date": "2026-09-09",
-   "shear": 24.9,
+   "shear": 26.9,
    "srh": null,
-   "li": 0.7
+   "li": 2.0
   },
   {
    "date": "2026-09-10",
-   "shear": 12.0,
+   "shear": 12.9,
    "srh": null,
-   "li": 2.2
+   "li": -2.0
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Pohjois-Itämeri sekä paikoin Pohjanlahti, ti 0.00 - 18.00",
-   "desc": "Kovan tuulen varoitus: Lounaistuulta aluksi 14 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Pohjois-Itämeri ja Pohjanlahti, ma 21.08 - ti 0.00",
-   "desc": "Huomautus veneilijöille: Lounaistuulta aluksi 12 m/s.",
-   "lvl": 1
-  },
-  {
    "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 3.00 - 21.00",
-   "desc": "Huomautus veneilijöille: Lounaistuulta aamuyöstä alkaen 12 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen aallokkovaroitus: Pohjois-Itämeren itäosa ja Pohjanlahti, ti 0.00 - 18.00",
-   "desc": "Aallokkovaroitus: Aluksi esiintyy kohtalaista aallokkoa, jossa merkitsevä aallonkorkeus ylittää 2,5 metriä.",
+   "desc": "Huomautus veneilijöille: Lounaistuulta aluksi 12 m/s.",
    "lvl": 1
   },
   {
    "title": "Keltainen tuulivaroitus maa-alueille: Paikoin maan pohjois- ja länsiosa, ti 9.00 - 18.00",
    "desc": "Tuulivaroitus maa-alueille: Lounaistuuli on voimakasta päivällä, tuulen nopeus puuskissa 15 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Pohjois-Itämeren itäosa sekä paikoin Pohjanlahti, ti 0.03 - 18.00",
+   "desc": "Kovan tuulen varoitus: Lounaistuulta aluksi 14 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen aallokkovaroitus: Pohjois-Itämeren itäosa ja Pohjanlahti, ti 0.03 - 18.00",
+   "desc": "Aallokkovaroitus: Aluksi esiintyy kohtalaista aallokkoa, jossa merkitsevä aallonkorkeus ylittää 2,5 metriä.",
    "lvl": 1
   }
  ],
