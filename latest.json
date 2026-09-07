@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T12:49+00:00",
+ "updated": "2026-09-07T19:17+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -31,28 +31,28 @@
  ],
  "warnings": [
   {
-   "title": "Keltainen aallokkovaroitus: Pohjois-Itämeren itäosa ja Pohjanlahti, ti 0.00 - 15.00",
-   "desc": "Aallokkovaroitus: Keskiyöstä alkaen esiintyy kohtalaista aallokkoa, jossa merkitsevä aallonkorkeus ylittää 2,5 metriä.",
+   "title": "Keltainen tuulivaroitus merelle: Pohjois-Itämeri sekä paikoin Pohjanlahti, ti 0.00 - 18.00",
+   "desc": "Kovan tuulen varoitus: Lounaistuulta aluksi 14 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Pohjois-Itämeri ja Pohjanlahti, ma 14.44 - ti 0.00",
+   "title": "Keltainen tuulivaroitus merelle: Pohjois-Itämeri ja Pohjanlahti, ma 21.08 - ti 0.00",
    "desc": "Huomautus veneilijöille: Lounaistuulta aluksi 12 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Pohjois-Itämeri sekä paikoin Pohjanlahti, ti 0.00 - 18.00",
-   "desc": "Kovan tuulen varoitus: Lounaistuulta keskiyöstä alkaen 14 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 3.00 - 21.00",
+   "desc": "Huomautus veneilijöille: Lounaistuulta aamuyöstä alkaen 12 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen aallokkovaroitus: Pohjois-Itämeren itäosa ja Pohjanlahti, ti 0.00 - 18.00",
+   "desc": "Aallokkovaroitus: Aluksi esiintyy kohtalaista aallokkoa, jossa merkitsevä aallonkorkeus ylittää 2,5 metriä.",
    "lvl": 1
   },
   {
    "title": "Keltainen tuulivaroitus maa-alueille: Paikoin maan pohjois- ja länsiosa, ti 9.00 - 18.00",
    "desc": "Tuulivaroitus maa-alueille: Lounaistuuli on voimakasta päivällä, tuulen nopeus puuskissa 15 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 3.00 - 18.00",
-   "desc": "Huomautus veneilijöille: Lounaistuulta aamuyöstä alkaen 12 m/s.",
    "lvl": 1
   }
  ],
