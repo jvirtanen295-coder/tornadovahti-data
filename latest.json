@@ -1,53 +1,53 @@
 {
- "updated": "2026-09-07T23:37+00:00",
+ "updated": "2026-09-08T04:54+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-09-07",
-   "shear": 16.1,
+   "shear": 15.2,
    "srh": null,
-   "li": 4.9
+   "li": 4.7
   },
   {
    "date": "2026-09-08",
-   "shear": 30.8,
+   "shear": 28.2,
    "srh": null,
-   "li": 2.6
+   "li": 2.4
   },
   {
    "date": "2026-09-09",
-   "shear": 26.9,
+   "shear": 23.8,
    "srh": null,
-   "li": 2.0
+   "li": 2.7
   },
   {
    "date": "2026-09-10",
-   "shear": 12.9,
+   "shear": 14.5,
    "srh": null,
-   "li": -2.0
+   "li": -1.7
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 3.00 - 21.00",
+   "title": "Keltainen tuulivaroitus maa-alueille: Paikoin maan pohjois- ja länsiosa, ti 9.00 - 18.00",
+   "desc": "Tuulivaroitus maa-alueille: Lounaistuuli on voimakasta aluksi, tuulen nopeus puuskissa 15 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 5.12 - ke 0.00",
    "desc": "Huomautus veneilijöille: Lounaistuulta aluksi 12 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus maa-alueille: Paikoin maan pohjois- ja länsiosa, ti 9.00 - 18.00",
-   "desc": "Tuulivaroitus maa-alueille: Lounaistuuli on voimakasta päivällä, tuulen nopeus puuskissa 15 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Pohjois-Itämeren itäosa sekä paikoin Pohjanlahti, ti 0.03 - 18.00",
-   "desc": "Kovan tuulen varoitus: Lounaistuulta aluksi 14 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen aallokkovaroitus: Pohjois-Itämeren itäosa ja Pohjanlahti, ti 0.03 - 18.00",
+   "title": "Keltainen aallokkovaroitus: Pohjois-Itämeren itäosa ja Pohjanlahti, ti 5.12 - 18.00",
    "desc": "Aallokkovaroitus: Aluksi esiintyy kohtalaista aallokkoa, jossa merkitsevä aallonkorkeus ylittää 2,5 metriä.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Pohjois-Itämeri sekä paikoin Pohjanlahti, ti 5.12 - 18.00",
+   "desc": "Kovan tuulen varoitus: Lounaistuulta aluksi 14 m/s.",
    "lvl": 1
   }
  ],
