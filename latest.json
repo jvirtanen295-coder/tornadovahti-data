@@ -1,53 +1,48 @@
 {
- "updated": "2026-09-08T16:46+00:00",
+ "updated": "2026-09-08T21:19+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-09-08",
-   "shear": 29.5,
+   "shear": 25.4,
    "srh": null,
-   "li": 2.1
+   "li": 1.0
   },
   {
    "date": "2026-09-09",
-   "shear": 27.6,
+   "shear": 26.5,
    "srh": null,
-   "li": 2.7
+   "li": 2.0
   },
   {
    "date": "2026-09-10",
-   "shear": 16.9,
+   "shear": 12.8,
    "srh": null,
-   "li": -0.9
+   "li": -2.4
   },
   {
    "date": "2026-09-11",
-   "shear": 4.6,
+   "shear": 12.6,
    "srh": null,
-   "li": 3.9
+   "li": 6.0
   }
  ],
  "warnings": [
   {
-   "title": "POISTETTU: Keltainen tuulivaroitus maa-alueille: Paikoin maan pohjois- ja länsiosa, ti 14.57 - 18.00",
-   "desc": "POISTETTU: Tuulivaroitus maa-alueille: Lounaistuuli on voimakasta aluksi, tuulen nopeus puuskissa 15 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Pohjois-Itämeren itäosa, ke 4.00 - 11.00",
+   "desc": "Huomautus veneilijöille: Lounaistuulta aluksi 11 m/s.",
    "lvl": 1
   },
   {
-   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Perämeri, ti 14.57 - 18.00",
-   "desc": "POISTETTU: Kovan tuulen varoitus: Lounaistuulta aluksi 14 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Suomenlahden länsiosa, ke 8.00 - 11.00",
+   "desc": "Huomautus veneilijöille: Lounaistuulta aamupäivällä 11 m/s.",
    "lvl": 1
   },
   {
-   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 14.57 - ke 0.00",
-   "desc": "POISTETTU: Huomautus veneilijöille: Lounaistuulta aluksi 12 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri ja Selkämeren eteläosa, to 12.00 - pe 0.00",
-   "desc": "Kovan tuulen varoitus: Kovan pohjoisen ja koillisen välisen tuulen todennäköisyys on 40 % torstaipäivästä torstain ja perjantain väliseen yöhön.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeren eteläosa, to 9.00 - 21.00",
+   "desc": "Kovan tuulen varoitus: Kovan pohjoisen ja koillisen välisen tuulen todennäköisyys on 40 % torstaiaamusta torstai-iltaan.",
    "lvl": 1
   }
  ],
