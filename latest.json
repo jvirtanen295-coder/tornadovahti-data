@@ -1,58 +1,53 @@
 {
- "updated": "2026-09-08T11:32+00:00",
+ "updated": "2026-09-08T16:46+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-09-08",
-   "shear": 26.2,
+   "shear": 29.5,
    "srh": null,
-   "li": 2.9
+   "li": 2.1
   },
   {
    "date": "2026-09-09",
-   "shear": 24.3,
+   "shear": 27.6,
    "srh": null,
-   "li": 1.7
+   "li": 2.7
   },
   {
    "date": "2026-09-10",
-   "shear": 22.0,
+   "shear": 16.9,
    "srh": null,
-   "li": -1.2
+   "li": -0.9
   },
   {
    "date": "2026-09-11",
-   "shear": 0.5,
+   "shear": 4.6,
    "srh": null,
-   "li": 5.6
+   "li": 3.9
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, to 9.00 - pe 0.00",
-   "desc": "Kovan tuulen varoitus: Kovan pohjoisen ja koillisen välisen tuulen todennäköisyys on 20 % torstaiaamusta torstain ja perjantain väliseen yöhön.",
+   "title": "POISTETTU: Keltainen tuulivaroitus maa-alueille: Paikoin maan pohjois- ja länsiosa, ti 14.57 - 18.00",
+   "desc": "POISTETTU: Tuulivaroitus maa-alueille: Lounaistuuli on voimakasta aluksi, tuulen nopeus puuskissa 15 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen aallokkovaroitus: Pohjois-Itämeren itäosa ja Pohjanlahti, ti 11.10 - 16.00",
-   "desc": "Aallokkovaroitus: Aluksi esiintyy kohtalaista aallokkoa, jossa merkitsevä aallonkorkeus ylittää 2,5 metriä.",
+   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Perämeri, ti 14.57 - 18.00",
+   "desc": "POISTETTU: Kovan tuulen varoitus: Lounaistuulta aluksi 14 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus maa-alueille: Paikoin maan pohjois- ja länsiosa, ti 11.10 - 18.00",
-   "desc": "Tuulivaroitus maa-alueille: Lounaistuuli on voimakasta aluksi, tuulen nopeus puuskissa 15 m/s.",
+   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 14.57 - ke 0.00",
+   "desc": "POISTETTU: Huomautus veneilijöille: Lounaistuulta aluksi 12 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 11.10 - ke 0.00",
-   "desc": "Huomautus veneilijöille: Lounaistuulta aluksi 12 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Pohjois-Itämeren itäosa sekä paikoin Pohjanlahti, ti 11.10 - ke 0.00",
-   "desc": "Kovan tuulen varoitus: Lounaistuulta aluksi 14 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri ja Selkämeren eteläosa, to 12.00 - pe 0.00",
+   "desc": "Kovan tuulen varoitus: Kovan pohjoisen ja koillisen välisen tuulen todennäköisyys on 40 % torstaipäivästä torstain ja perjantain väliseen yöhön.",
    "lvl": 1
   }
  ],
