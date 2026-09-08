@@ -1,52 +1,57 @@
 {
- "updated": "2026-09-08T04:54+00:00",
+ "updated": "2026-09-08T11:32+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-09-07",
-   "shear": 15.2,
-   "srh": null,
-   "li": 4.7
-  },
-  {
    "date": "2026-09-08",
-   "shear": 28.2,
+   "shear": 26.2,
    "srh": null,
-   "li": 2.4
+   "li": 2.9
   },
   {
    "date": "2026-09-09",
-   "shear": 23.8,
+   "shear": 24.3,
    "srh": null,
-   "li": 2.7
+   "li": 1.7
   },
   {
    "date": "2026-09-10",
-   "shear": 14.5,
+   "shear": 22.0,
    "srh": null,
-   "li": -1.7
+   "li": -1.2
+  },
+  {
+   "date": "2026-09-11",
+   "shear": 0.5,
+   "srh": null,
+   "li": 5.6
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus maa-alueille: Paikoin maan pohjois- ja länsiosa, ti 9.00 - 18.00",
-   "desc": "Tuulivaroitus maa-alueille: Lounaistuuli on voimakasta aluksi, tuulen nopeus puuskissa 15 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, to 9.00 - pe 0.00",
+   "desc": "Kovan tuulen varoitus: Kovan pohjoisen ja koillisen välisen tuulen todennäköisyys on 20 % torstaiaamusta torstain ja perjantain väliseen yöhön.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 5.12 - ke 0.00",
-   "desc": "Huomautus veneilijöille: Lounaistuulta aluksi 12 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen aallokkovaroitus: Pohjois-Itämeren itäosa ja Pohjanlahti, ti 5.12 - 18.00",
+   "title": "Keltainen aallokkovaroitus: Pohjois-Itämeren itäosa ja Pohjanlahti, ti 11.10 - 16.00",
    "desc": "Aallokkovaroitus: Aluksi esiintyy kohtalaista aallokkoa, jossa merkitsevä aallonkorkeus ylittää 2,5 metriä.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Pohjois-Itämeri sekä paikoin Pohjanlahti, ti 5.12 - 18.00",
+   "title": "Keltainen tuulivaroitus maa-alueille: Paikoin maan pohjois- ja länsiosa, ti 11.10 - 18.00",
+   "desc": "Tuulivaroitus maa-alueille: Lounaistuuli on voimakasta aluksi, tuulen nopeus puuskissa 15 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 11.10 - ke 0.00",
+   "desc": "Huomautus veneilijöille: Lounaistuulta aluksi 12 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Pohjois-Itämeren itäosa sekä paikoin Pohjanlahti, ti 11.10 - ke 0.00",
    "desc": "Kovan tuulen varoitus: Lounaistuulta aluksi 14 m/s.",
    "lvl": 1
   }
