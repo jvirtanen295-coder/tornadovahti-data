@@ -1,48 +1,53 @@
 {
- "updated": "2026-09-09T04:56+00:00",
+ "updated": "2026-09-09T11:37+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-09-08",
-   "shear": 24.9,
-   "srh": null,
-   "li": 2.4
-  },
-  {
    "date": "2026-09-09",
-   "shear": 27.8,
+   "shear": 28.5,
    "srh": null,
-   "li": 2.2
+   "li": 1.6
   },
   {
    "date": "2026-09-10",
-   "shear": 13.2,
+   "shear": 11.9,
    "srh": null,
-   "li": -0.0
+   "li": -1.2
   },
   {
    "date": "2026-09-11",
-   "shear": 13.9,
+   "shear": 12.4,
    "srh": null,
-   "li": 4.0
+   "li": 4.9
+  },
+  {
+   "date": "2026-09-12",
+   "shear": 10.6,
+   "srh": null,
+   "li": 13.5
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Suomenlahden länsiosa, ke 8.00 - 11.00",
-   "desc": "Huomautus veneilijöille: Lounaistuulta aluksi 11 m/s.",
+   "title": "Keltainen aallokkovaroitus: Selkämeren eteläosa, to 12.00 - 18.00",
+   "desc": "Aallokkovaroitus: Torstaina päivällä ja illalla kohtalaisen aallokon todennäköisyys on 40 %. Merkitsevä aallonkorkeus voi ylittää 2,5 metriä.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen raju ukonilma: Selkämeri, ke 18.00 - to 0.00",
+   "desc": "Huomautus veneilijöille: Illalla ukkospuuskia.",
    "lvl": 1
   },
   {
    "title": "Keltainen tuulivaroitus merelle: Selkämeren eteläosa, to 9.00 - 21.00",
-   "desc": "Kovan tuulen varoitus: Kovan pohjoisen ja koillisen välisen tuulen todennäköisyys on 40 % torstaiaamusta torstai-iltaan.",
+   "desc": "Kovan tuulen varoitus: Pohjoistuulta aamupäivästä alkaen 15 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Pohjois-Itämeren itäosa, ke 5.15 - 11.00",
-   "desc": "Huomautus veneilijöille: Lounaistuulta aluksi 11 m/s.",
+   "title": "Keltainen sadevaroitus: Paikoin maan länsiosa, to 15.00 - 21.00",
+   "desc": "Sadevaroitus: Runsaiden sateiden todennäköisyys on 20 % torstaina päivällä ja illalla.",
    "lvl": 1
   }
  ],
