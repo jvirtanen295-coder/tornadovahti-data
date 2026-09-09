@@ -1,53 +1,58 @@
 {
- "updated": "2026-09-09T11:37+00:00",
+ "updated": "2026-09-09T16:48+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-09-09",
-   "shear": 28.5,
+   "shear": 26.8,
    "srh": null,
-   "li": 1.6
+   "li": 2.0
   },
   {
    "date": "2026-09-10",
-   "shear": 11.9,
+   "shear": 13.1,
    "srh": null,
-   "li": -1.2
+   "li": -1.0
   },
   {
    "date": "2026-09-11",
-   "shear": 12.4,
+   "shear": 13.6,
    "srh": null,
-   "li": 4.9
+   "li": 4.6
   },
   {
    "date": "2026-09-12",
-   "shear": 10.6,
+   "shear": 8.0,
    "srh": null,
-   "li": 13.5
+   "li": 15.1
   }
  ],
  "warnings": [
   {
+   "title": "Keltainen tuulivaroitus merelle: Selkämeren eteläosa, to 12.00 - 21.00",
+   "desc": "Kovan tuulen varoitus: Pohjoistuulta iltapäivällä ja illalla 15 m/s.",
+   "lvl": 1
+  },
+  {
    "title": "Keltainen aallokkovaroitus: Selkämeren eteläosa, to 12.00 - 18.00",
-   "desc": "Aallokkovaroitus: Torstaina päivällä ja illalla kohtalaisen aallokon todennäköisyys on 40 %. Merkitsevä aallonkorkeus voi ylittää 2,5 metriä.",
+   "desc": "Aallokkovaroitus: Iltapäivällä esiintyy kohtalaista aallokkoa, jossa merkitsevä aallonkorkeus ylittää 2,5 metriä.",
    "lvl": 1
   },
   {
-   "title": "Keltainen raju ukonilma: Selkämeri, ke 18.00 - to 0.00",
-   "desc": "Huomautus veneilijöille: Illalla ukkospuuskia.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeren eteläosa, to 9.00 - 21.00",
-   "desc": "Kovan tuulen varoitus: Pohjoistuulta aamupäivästä alkaen 15 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa, to 12.00 - 18.00",
+   "desc": "Huomautus veneilijöille: Pohjoistuulta iltapäivällä 12 m/s.",
    "lvl": 1
   },
   {
    "title": "Keltainen sadevaroitus: Paikoin maan länsiosa, to 15.00 - 21.00",
-   "desc": "Sadevaroitus: Runsaiden sateiden todennäköisyys on 20 % torstaina päivällä ja illalla.",
+   "desc": "Sadevaroitus: Iltapäivällä ja illalla voi sataa rankasti, yli 20 mm tunnissa.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen raju ukonilma: Selkämeri, ke 17.28 - to 0.00",
+   "desc": "Huomautus veneilijöille: Aluksi ukkospuuskia.",
    "lvl": 1
   }
  ],
