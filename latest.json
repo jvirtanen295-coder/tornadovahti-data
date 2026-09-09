@@ -1,32 +1,32 @@
 {
- "updated": "2026-09-09T16:48+00:00",
+ "updated": "2026-09-09T21:03+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-09-09",
-   "shear": 26.8,
+   "shear": 27.4,
    "srh": null,
-   "li": 2.0
+   "li": 3.4
   },
   {
    "date": "2026-09-10",
-   "shear": 13.1,
+   "shear": 13.5,
    "srh": null,
-   "li": -1.0
+   "li": -0.0
   },
   {
    "date": "2026-09-11",
-   "shear": 13.6,
+   "shear": 13.4,
    "srh": null,
-   "li": 4.6
+   "li": 6.1
   },
   {
    "date": "2026-09-12",
-   "shear": 8.0,
+   "shear": 17.5,
    "srh": null,
-   "li": 15.1
+   "li": 4.3
   }
  ],
  "warnings": [
@@ -41,8 +41,8 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa, to 12.00 - 18.00",
-   "desc": "Huomautus veneilijöille: Pohjoistuulta iltapäivällä 12 m/s.",
+   "title": "Keltainen raju ukonilma: Selkämeri, ke 20.00 - to 0.00",
+   "desc": "Huomautus veneilijöille: Aluksi ukkospuuskia.",
    "lvl": 1
   },
   {
@@ -51,8 +51,8 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen raju ukonilma: Selkämeri, ke 17.28 - to 0.00",
-   "desc": "Huomautus veneilijöille: Aluksi ukkospuuskia.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa, to 12.00 - 18.00",
+   "desc": "Huomautus veneilijöille: Pohjoistuulta iltapäivällä 12 m/s.",
    "lvl": 1
   }
  ],
