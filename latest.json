@@ -1,38 +1,38 @@
 {
- "updated": "2026-09-09T23:24+00:00",
+ "updated": "2026-09-10T04:57+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-09-09",
-   "shear": 27.4,
+   "shear": 25.9,
    "srh": null,
-   "li": 3.4
+   "li": 3.2
   },
   {
    "date": "2026-09-10",
-   "shear": 13.5,
+   "shear": 12.5,
    "srh": null,
-   "li": -0.0
+   "li": -0.8
   },
   {
    "date": "2026-09-11",
-   "shear": 13.4,
+   "shear": 14.1,
    "srh": null,
-   "li": 6.1
+   "li": 5.2
   },
   {
    "date": "2026-09-12",
-   "shear": 17.5,
+   "shear": 16.7,
    "srh": null,
-   "li": 4.3
+   "li": 5.5
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeren eteläosa, to 9.00 - 21.00",
-   "desc": "Kovan tuulen varoitus: Pohjoistuulta aamupäivästä alkaen 15 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa, to 9.00 - 19.00",
+   "desc": "Huomautus veneilijöille: Pohjoistuulta aluksi 12 m/s.",
    "lvl": 1
   },
   {
@@ -41,8 +41,8 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa, to 9.00 - 19.00",
-   "desc": "Huomautus veneilijöille: Pohjoistuulta päivällä 12 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeren eteläosa, to 9.00 - 21.00",
+   "desc": "Kovan tuulen varoitus: Pohjoistuulta aluksi 15 m/s.",
    "lvl": 1
   }
  ],
