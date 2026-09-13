@@ -1,43 +1,43 @@
 {
- "updated": "2026-09-13T16:30+00:00",
+ "updated": "2026-09-13T20:59+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-09-13",
-   "shear": 12.8,
+   "shear": 13.0,
    "srh": null,
-   "li": 2.6
+   "li": 2.7
   },
   {
    "date": "2026-09-14",
-   "shear": 14.8,
+   "shear": 18.8,
    "srh": null,
-   "li": 6.2
+   "li": 7.1
   },
   {
    "date": "2026-09-15",
-   "shear": 15.9,
+   "shear": 15.1,
    "srh": null,
-   "li": 8.8
+   "li": 9.8
   },
   {
    "date": "2026-09-16",
-   "shear": 15.9,
+   "shear": 21.2,
    "srh": null,
-   "li": 7.5
+   "li": 1.0
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Perämeri, su 21.00 - ma 6.00",
-   "desc": "Huomautus veneilijöille: Lännen ja luoteen välistä tuulta aluksi 11 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeri ja Merenkurkku, ke 7.00 - 19.00",
+   "desc": "Kovan tuulen varoitus: Kovan etelätuulen todennäköisyys on 30 % keskiviikkoaamusta keskiviikko-iltaan.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeri ja Merenkurkku, ke 7.00 - 19.00",
-   "desc": "Kovan tuulen varoitus: Kovan etelätuulen todennäköisyys on 30 % keskiviikkoaamusta keskiviikko-iltaan.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Perämeri, su 20.08 - ma 6.00",
+   "desc": "Huomautus veneilijöille: Lännen ja luoteen välistä tuulta aluksi 11 m/s.",
    "lvl": 1
   }
  ],
