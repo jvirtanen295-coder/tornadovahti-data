@@ -1,48 +1,48 @@
 {
- "updated": "2026-09-14T13:05+00:00",
+ "updated": "2026-09-14T20:00+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-09-14",
-   "shear": 13.9,
+   "shear": 12.4,
    "srh": null,
-   "li": 6.6
+   "li": 6.3
   },
   {
    "date": "2026-09-15",
-   "shear": 18.4,
+   "shear": 16.6,
    "srh": null,
-   "li": 10.5
+   "li": 9.6
   },
   {
    "date": "2026-09-16",
-   "shear": 24.7,
+   "shear": 26.0,
    "srh": null,
-   "li": 1.2
+   "li": 1.3
   },
   {
    "date": "2026-09-17",
-   "shear": 14.6,
+   "shear": 13.0,
    "srh": null,
-   "li": 1.5
+   "li": 2.4
   }
  ],
  "warnings": [
-  {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ke 6.00 - 15.00",
-   "desc": "Kovan tuulen varoitus: Kovan etelätuulen todennäköisyys on 40 % keskiviikkona aamulla ja päivällä.",
-   "lvl": 1
-  },
   {
    "title": "Keltainen aallokkovaroitus: Selkämeren pohjoisosa ja Merenkurkku, ke 9.00 - 15.00",
    "desc": "Aallokkovaroitus: Keskiviikkona aamulla ja päivällä kohtalaisen aallokon todennäköisyys on 30 %. Merkitsevä aallonkorkeus voi ylittää 2,5 metriä.",
    "lvl": 1
   },
   {
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ke 6.00 - 15.00",
+   "desc": "Kovan tuulen varoitus: Kovan etelätuulen todennäköisyys on 40 % keskiviikkona aamulla ja päivällä.",
+   "lvl": 1
+  },
+  {
    "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 15.00 - ke 0.00",
-   "desc": "Kovan tuulen varoitus: Etelätuulen todennäköisyys on 60 % tiistaipäivästä tiistain ja keskiviikon väliseen yöhön.",
+   "desc": "Huomautus veneilijöille: Etelätuulta iltapäivästä alkaen 12 m/s.",
    "lvl": 1
   }
  ],
