@@ -1,43 +1,43 @@
 {
- "updated": "2026-09-14T23:56+00:00",
+ "updated": "2026-09-15T05:05+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-09-14",
-   "shear": 12.4,
+   "shear": 10.0,
    "srh": null,
-   "li": 6.3
+   "li": 11.4
   },
   {
    "date": "2026-09-15",
-   "shear": 16.6,
+   "shear": 18.3,
    "srh": null,
-   "li": 9.6
+   "li": 10.2
   },
   {
    "date": "2026-09-16",
-   "shear": 26.0,
+   "shear": 29.6,
    "srh": null,
-   "li": 1.3
+   "li": 0.9
   },
   {
    "date": "2026-09-17",
-   "shear": 13.0,
+   "shear": 17.7,
    "srh": null,
-   "li": 2.4
+   "li": 3.5
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Pohjanlahti, ti 13.00 - ke 0.00",
-   "desc": "Huomautus veneilijöille: Etelätuulta iltapäivästä alkaen 12 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Pohjanlahti, ti 11.00 - ke 0.00",
+   "desc": "Huomautus veneilijöille: Etelätuulta aamupäivästä alkaen 12 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeri ja Merenkurkku, ke 3.00 - 18.00",
-   "desc": "Kovan tuulen varoitus: Kovan etelätuulen todennäköisyys on 40 % tiistain ja keskiviikon välisestä yöstä keskiviikko-iltaan.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeri ja Merenkurkku, ke 0.00 - 18.00",
+   "desc": "Kovan tuulen varoitus: Etelätuulta keskiyöstä alkaen 16 m/s.",
    "lvl": 1
   },
   {
