@@ -1,43 +1,43 @@
 {
- "updated": "2026-09-15T11:55+00:00",
+ "updated": "2026-09-15T17:11+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-09-15",
-   "shear": 17.4,
+   "shear": 17.3,
    "srh": null,
-   "li": 9.5
+   "li": 10.2
   },
   {
    "date": "2026-09-16",
-   "shear": 28.0,
+   "shear": 25.5,
    "srh": null,
-   "li": 0.8
+   "li": 0.7
   },
   {
    "date": "2026-09-17",
-   "shear": 8.6,
+   "shear": 10.7,
    "srh": null,
-   "li": 2.6
+   "li": 1.6
   },
   {
    "date": "2026-09-18",
-   "shear": 14.2,
+   "shear": 16.3,
    "srh": null,
-   "li": 11.6
+   "li": 3.9
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Pohjanlahti, ti 14.40 - ke 0.00",
-   "desc": "Huomautus veneilijöille: Etelätuulta aluksi 12 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeri ja Merenkurkku, ke 0.00 - 18.00",
+   "desc": "Kovan tuulen varoitus: Etelätuulta keskiyöstä alkaen 16 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeri ja Merenkurkku, ke 0.00 - 18.00",
-   "desc": "Kovan tuulen varoitus: Etelätuulta keskiyöstä alkaen 16 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Pohjanlahti, ti 17.34 - ke 0.00",
+   "desc": "Huomautus veneilijöille: Etelätuulta aluksi 12 m/s.",
    "lvl": 1
   },
   {
