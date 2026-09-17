@@ -1,58 +1,58 @@
 {
- "updated": "2026-09-17T05:03+00:00",
+ "updated": "2026-09-17T11:54+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-09-16",
-   "shear": 22.2,
-   "srh": null,
-   "li": 2.6
-  },
-  {
    "date": "2026-09-17",
    "shear": 19.7,
    "srh": null,
-   "li": 2.5
+   "li": 2.4
   },
   {
    "date": "2026-09-18",
-   "shear": 16.2,
+   "shear": 16.9,
    "srh": null,
-   "li": 0.3
+   "li": 0.2
   },
   {
    "date": "2026-09-19",
-   "shear": 21.0,
+   "shear": 22.5,
    "srh": null,
-   "li": 0.5
+   "li": 1.7
+  },
+  {
+   "date": "2026-09-20",
+   "shear": 30.1,
+   "srh": null,
+   "li": 3.8
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Suomenlahti ja Pohjois-Itämeri, la 9.00 - su 0.00",
-   "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 30 % lauantaiaamusta lauantain ja sunnuntain väliseen yöhön.",
+   "title": "Keltainen aallokkovaroitus: Paikoin kaikki merialueet, la 15.00 - su 15.00",
+   "desc": "Aallokkovaroitus: Lauantaipäivästä sunnuntaipäivään kohtalaisen aallokon todennäköisyys on 30 %. Merkitsevä aallonkorkeus voi ylittää 2,5 metriä.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, to 5.08 - 11.00",
-   "desc": "Huomautus veneilijöille: Länsituulta aluksi 11 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Suomenlahti, su 0.00 - 15.00",
+   "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 40 % lauantain ja sunnuntain välisestä yöstä sunnuntaipäivään.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus maa-alueille: Maan eteläosa, su 9.00 - 18.00",
-   "desc": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan lounaistuulen todennäköisyys on 30 % sunnuntaiaamusta sunnuntai-iltaan. Tuulen nopeus voi olla puuskissa 15 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Suomenlahti, to 5.08 - pe 0.00",
+   "title": "Keltainen tuulivaroitus merelle: Suomenlahti, to 14.32 - pe 0.00",
    "desc": "Huomautus veneilijöille: Lounaistuulta aluksi 11 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 0.00 - 18.00",
-   "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 30 % lauantain ja sunnuntain välisestä yöstä sunnuntai-iltaan.",
+   "title": "Keltainen tuulivaroitus maa-alueille: Paikoin koko maa, su 9.00 - 18.00",
+   "desc": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan lounaistuulen todennäköisyys on 20 % sunnuntaiaamusta sunnuntai-iltaan. Tuulen nopeus voi olla puuskissa 15 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Suomenlahti ja Selkämeri, la 0.00 - su 0.00",
+   "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 60 % perjantain ja lauantain välisestä yöstä lauantain ja sunnuntain väliseen yöhön.",
    "lvl": 1
   }
  ],
