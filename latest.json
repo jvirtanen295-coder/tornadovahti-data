@@ -1,38 +1,38 @@
 {
- "updated": "2026-09-17T11:54+00:00",
+ "updated": "2026-09-17T17:10+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-09-17",
-   "shear": 19.7,
+   "shear": 20.3,
    "srh": null,
-   "li": 2.4
+   "li": 2.3
   },
   {
    "date": "2026-09-18",
-   "shear": 16.9,
+   "shear": 15.8,
    "srh": null,
-   "li": 0.2
+   "li": 1.4
   },
   {
    "date": "2026-09-19",
-   "shear": 22.5,
+   "shear": 20.3,
    "srh": null,
-   "li": 1.7
+   "li": 1.1
   },
   {
    "date": "2026-09-20",
-   "shear": 30.1,
+   "shear": 29.6,
    "srh": null,
-   "li": 3.8
+   "li": 0.5
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen aallokkovaroitus: Paikoin kaikki merialueet, la 15.00 - su 15.00",
-   "desc": "Aallokkovaroitus: Lauantaipäivästä sunnuntaipäivään kohtalaisen aallokon todennäköisyys on 30 %. Merkitsevä aallonkorkeus voi ylittää 2,5 metriä.",
+   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Suomenlahti, to 17.41 - pe 0.00",
+   "desc": "POISTETTU: Huomautus veneilijöille: Lounaistuulta aluksi 11 m/s.",
    "lvl": 1
   },
   {
@@ -41,18 +41,18 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Suomenlahti, to 14.32 - pe 0.00",
-   "desc": "Huomautus veneilijöille: Lounaistuulta aluksi 11 m/s.",
-   "lvl": 1
-  },
-  {
    "title": "Keltainen tuulivaroitus maa-alueille: Paikoin koko maa, su 9.00 - 18.00",
    "desc": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan lounaistuulen todennäköisyys on 20 % sunnuntaiaamusta sunnuntai-iltaan. Tuulen nopeus voi olla puuskissa 15 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Suomenlahti ja Selkämeri, la 0.00 - su 0.00",
-   "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 60 % perjantain ja lauantain välisestä yöstä lauantain ja sunnuntain väliseen yöhön.",
+   "title": "Keltainen tuulivaroitus merelle: Suomenlahti ja Pohjois-Itämeri, pe 12.00 - la 0.00",
+   "desc": "Kovan tuulen varoitus: Lounaistuulta keskipäivästä alkaen 14 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 0.00 - 15.00",
+   "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 40 % lauantain ja sunnuntain välisestä yöstä sunnuntaipäivään.",
    "lvl": 1
   }
  ],
