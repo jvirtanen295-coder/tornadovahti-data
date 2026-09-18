@@ -1,48 +1,38 @@
 {
- "updated": "2026-09-18T04:56+00:00",
+ "updated": "2026-09-18T11:31+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-09-17",
-   "shear": 20.5,
-   "srh": null,
-   "li": 6.3
-  },
-  {
    "date": "2026-09-18",
-   "shear": 16.3,
+   "shear": 16.2,
    "srh": null,
-   "li": 0.8
+   "li": 0.6
   },
   {
    "date": "2026-09-19",
-   "shear": 19.6,
+   "shear": 21.5,
    "srh": null,
    "li": 1.8
   },
   {
    "date": "2026-09-20",
-   "shear": 16.3,
+   "shear": 19.8,
    "srh": null,
-   "li": 0.2
+   "li": -0.4
+  },
+  {
+   "date": "2026-09-21",
+   "shear": 6.0,
+   "srh": null,
+   "li": 4.1
   }
  ],
  "warnings": [
   {
-   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Ahvenanmeri ja Saaristomeri, su 0.00 - 15.00",
-   "desc": "POISTETTU: Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 40 % lauantain ja sunnuntain välisestä yöstä sunnuntaipäivään.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri ja Saaristomeri, la 15.00 - su 0.00",
-   "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 40 % lauantaipäivästä lauantain ja sunnuntain väliseen yöhön.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus maa-alueille: Paikoin koko maa, su 6.00 - 17.00",
-   "desc": "Tuulivaroitus maa-alueille: Vaarallisen voimakkaan lounaistuulen todennäköisyys on 20 % sunnuntaina aamulla ja päivällä. Tuulen nopeus voi olla puuskissa 15 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Suomenlahti ja Selkämeri, la 0.00 - su 0.00",
+   "desc": "Kovan tuulen varoitus: Lounaistuulta keskiyöstä alkaen 14 m/s.",
    "lvl": 1
   },
   {
@@ -51,8 +41,18 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen aallokkovaroitus: Paikoin kaikki merialueet, la 15.00 - su 15.00",
-   "desc": "Aallokkovaroitus: Lauantaipäivästä sunnuntaipäivään kohtalaisen aallokon todennäköisyys on 30 %. Merkitsevä aallonkorkeus voi ylittää 2,5 metriä.",
+   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri ja Saaristomeri, la 15.00 - su 0.00",
+   "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 40 % lauantaipäivästä lauantain ja sunnuntain väliseen yöhön.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Suomenlahti ja Pohjois-Itämeri, pe 11.36 - la 0.00",
+   "desc": "Kovan tuulen varoitus: Lounaistuulta aluksi 14 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Saaristomeri, su 0.00 - 15.00",
+   "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 40 % lauantain ja sunnuntain välisestä yöstä sunnuntaipäivään.",
    "lvl": 1
   }
  ],
