@@ -1,68 +1,7 @@
 {
- "updated": "2026-09-27T00:36+00:00",
- "frame_time": "2026-09-27T00:30+00:00",
+ "updated": "2026-09-27T06:05+00:00",
+ "frame_time": "2026-09-27T06:00+00:00",
  "source": "RainViewer-komposiitti (sis. FMI:n tutkat)",
  "note": "Automaattinen tunnistus; sijainti ±2 km, ei Doppler-rotaatiota.",
- "cells": [
-  {
-   "lat": 62.4614,
-   "lng": 24.7333,
-   "px": 206,
-   "size": 270,
-   "int": 3,
-   "dir": 128.0,
-   "spd": 13.7,
-   "id": "A"
-  },
-  {
-   "lat": 62.309,
-   "lng": 25.077,
-   "px": 206,
-   "size": 99,
-   "int": 3,
-   "dir": 111.0,
-   "spd": 12.5,
-   "id": "B"
-  },
-  {
-   "lat": 61.1622,
-   "lng": 25.1947,
-   "px": 206,
-   "size": 593,
-   "int": 3,
-   "dir": 65.0,
-   "spd": 5.1,
-   "id": "C"
-  },
-  {
-   "lat": 60.783,
-   "lng": 24.985,
-   "px": 206,
-   "size": 289,
-   "int": 3,
-   "dir": 102.0,
-   "spd": 7.4,
-   "id": "D"
-  },
-  {
-   "lat": 62.8613,
-   "lng": 24.6844,
-   "px": 202,
-   "size": 162,
-   "int": 3,
-   "dir": 84.0,
-   "spd": 8.7,
-   "id": "E"
-  },
-  {
-   "lat": 62.519,
-   "lng": 24.325,
-   "px": 202,
-   "size": 120,
-   "int": 3,
-   "dir": 275.0,
-   "spd": 24.2,
-   "id": "F"
-  }
- ]
+ "cells": []
 }
