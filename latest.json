@@ -1,43 +1,43 @@
 {
- "updated": "2026-10-30T18:07+00:00",
+ "updated": "2026-10-30T22:32+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-10-30",
-   "shear": 28.4,
+   "shear": 28.2,
    "srh": null,
-   "li": 1.0
+   "li": 1.1
   },
   {
    "date": "2026-10-31",
-   "shear": 34.7,
+   "shear": 34.9,
    "srh": null,
-   "li": 17.0
+   "li": 16.6
   },
   {
    "date": "2026-11-01",
-   "shear": 12.6,
+   "shear": 12.8,
    "srh": null,
-   "li": 12.5
+   "li": 13.0
   },
   {
    "date": "2026-11-02",
-   "shear": 12.4,
+   "shear": 12.2,
    "srh": null,
-   "li": 9.5
+   "li": 8.1
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Perämeri, la 14.00 - su 8.00",
-   "desc": "Kovan tuulen varoitus: Lounaistuulta iltapäivästä alkaen 14 m/s.",
+   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 12.00 - ke 0.00",
+   "desc": "POISTETTU: Kovan tuulen varoitus: Kovan pohjoistuulen todennäköisyys on 30 % tiistaipäivästä tiistain ja keskiviikon väliseen yöhön.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 12.00 - ke 0.00",
-   "desc": "Kovan tuulen varoitus: Kovan pohjoistuulen todennäköisyys on 30 % tiistaipäivästä tiistain ja keskiviikon väliseen yöhön.",
+   "title": "Keltainen tuulivaroitus merelle: Perämeri, la 14.00 - su 8.00",
+   "desc": "Kovan tuulen varoitus: Lounaistuulta iltapäivästä alkaen 14 m/s.",
    "lvl": 1
   }
  ],
