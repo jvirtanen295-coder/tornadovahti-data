@@ -1,42 +1,37 @@
 {
- "updated": "2026-10-30T22:32+00:00",
+ "updated": "2026-10-31T05:59+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-10-30",
-   "shear": 28.2,
+   "shear": 28.6,
    "srh": null,
-   "li": 1.1
+   "li": 10.2
   },
   {
    "date": "2026-10-31",
-   "shear": 34.9,
+   "shear": 34.4,
    "srh": null,
    "li": 16.6
   },
   {
    "date": "2026-11-01",
-   "shear": 12.8,
+   "shear": 13.0,
    "srh": null,
    "li": 13.0
   },
   {
    "date": "2026-11-02",
-   "shear": 12.2,
+   "shear": 14.5,
    "srh": null,
-   "li": 8.1
+   "li": 8.4
   }
  ],
  "warnings": [
   {
-   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 12.00 - ke 0.00",
-   "desc": "POISTETTU: Kovan tuulen varoitus: Kovan pohjoistuulen todennäköisyys on 30 % tiistaipäivästä tiistain ja keskiviikon väliseen yöhön.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Perämeri, la 14.00 - su 8.00",
+   "title": "Keltainen tuulivaroitus merelle: Perämeri, la 17.00 - su 8.00",
    "desc": "Kovan tuulen varoitus: Lounaistuulta iltapäivästä alkaen 14 m/s.",
    "lvl": 1
   }
