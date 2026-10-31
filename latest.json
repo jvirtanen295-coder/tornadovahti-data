@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T12:50+00:00",
+ "updated": "2026-10-31T19:24+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
@@ -31,18 +31,13 @@
  ],
  "warnings": [
   {
-   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Perämeri, la 17.00 - su 0.00",
-   "desc": "POISTETTU: Huomautus veneilijöille: Lounaistuulta illalla 12 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, su 7.00 - 14.00",
+   "desc": "Kovan tuulen varoitus: Lounaistuulta aamusta alkaen 14 m/s.",
    "lvl": 1
   },
   {
    "title": "Keltainen tuulivaroitus merelle: Perämeri, la 20.00 - su 10.00",
-   "desc": "Kovan tuulen varoitus: Lounaistuulta illasta alkaen 14 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, su 7.00 - 14.00",
-   "desc": "Kovan tuulen varoitus: Lounaistuulta aamusta alkaen 14 m/s.",
+   "desc": "Kovan tuulen varoitus: Lounaistuulta aluksi 14 m/s.",
    "lvl": 1
   }
  ],
