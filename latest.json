@@ -1,43 +1,43 @@
 {
- "updated": "2026-10-31T19:24+00:00",
+ "updated": "2026-11-01T00:16+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-10-31",
-   "shear": 22.8,
+   "shear": 19.4,
    "srh": null,
-   "li": 17.3
+   "li": 17.2
   },
   {
    "date": "2026-11-01",
-   "shear": 15.3,
+   "shear": 14.4,
    "srh": null,
-   "li": 12.6
+   "li": 12.0
   },
   {
    "date": "2026-11-02",
-   "shear": 11.3,
+   "shear": 13.5,
    "srh": null,
-   "li": 9.7
+   "li": 9.2
   },
   {
    "date": "2026-11-03",
-   "shear": 25.3,
+   "shear": 23.5,
    "srh": null,
-   "li": 12.2
+   "li": 9.9
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, su 7.00 - 14.00",
-   "desc": "Kovan tuulen varoitus: Lounaistuulta aamusta alkaen 14 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Perämeri, su 0.01 - 14.00",
+   "desc": "Kovan tuulen varoitus: Lounaistuulta aluksi 15 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Perämeri, la 20.00 - su 10.00",
-   "desc": "Kovan tuulen varoitus: Lounaistuulta aluksi 14 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, su 3.00 - 14.00",
+   "desc": "Kovan tuulen varoitus: Etelän ja lounaan välistä tuulta aluksi 14 m/s.",
    "lvl": 1
   }
  ],
