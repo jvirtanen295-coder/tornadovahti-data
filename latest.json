@@ -1,38 +1,38 @@
 {
- "updated": "2026-11-01T22:13+00:00",
+ "updated": "2026-11-02T06:30+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-11-01",
-   "shear": 12.0,
+   "shear": 12.7,
    "srh": null,
-   "li": 11.9
+   "li": 11.7
   },
   {
    "date": "2026-11-02",
-   "shear": 15.0,
+   "shear": 14.6,
    "srh": null,
-   "li": 9.0
+   "li": 9.1
   },
   {
    "date": "2026-11-03",
-   "shear": 28.6,
+   "shear": 27.4,
    "srh": null,
-   "li": 11.4
+   "li": 11.6
   },
   {
    "date": "2026-11-04",
-   "shear": 21.4,
+   "shear": 25.4,
    "srh": null,
-   "li": 9.6
+   "li": 9.7
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Pohjanlahti, ti 5.00 - 17.00",
-   "desc": "Kovan tuulen varoitus: Kovan pohjoistuulen todennäköisyys on 60 % tiistaina aamulla ja päivällä.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, ti 5.00 - 17.00",
+   "desc": "Kovan tuulen varoitus: Pohjoistuulta aamuyöstä alkaen 14 m/s.",
    "lvl": 1
   },
   {
