@@ -1,43 +1,48 @@
 {
- "updated": "2026-11-02T19:39+00:00",
+ "updated": "2026-11-03T02:59+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-11-02",
-   "shear": 12.9,
+   "shear": 13.2,
    "srh": null,
-   "li": 8.5
+   "li": 12.6
   },
   {
    "date": "2026-11-03",
-   "shear": 27.1,
+   "shear": 27.3,
    "srh": null,
-   "li": 11.9
+   "li": 12.1
   },
   {
    "date": "2026-11-04",
-   "shear": 24.2,
+   "shear": 21.6,
    "srh": null,
-   "li": 10.0
+   "li": 10.2
   },
   {
    "date": "2026-11-05",
-   "shear": 30.5,
+   "shear": 35.5,
    "srh": null,
-   "li": 7.6
+   "li": 6.9
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, ti 5.00 - 17.00",
-   "desc": "Kovan tuulen varoitus: Pohjoisen ja luoteen välistä tuulta aamuyöstä alkaen 14 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Pohjanlahti, ke 14.00 - to 0.00",
+   "desc": "Kovan tuulen varoitus: Kovan lännen ja luoteen välisen tuulen todennäköisyys on 40 % keskiviikkopäivästä keskiviikon ja torstain väliseen yöhön.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Pohjanlahti, ke 7.00 - to 0.00",
-   "desc": "Kovan tuulen varoitus: Kovan länsituulen todennäköisyys on 40 % keskiviikkoaamusta keskiviikon ja torstain väliseen yöhön.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, ti 3.00 - 13.00",
+   "desc": "Kovan tuulen varoitus: Pohjoisen ja luoteen välistä tuulta aluksi 14 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Selkämeri, to 0.00 - 12.00",
+   "desc": "Kovan tuulen varoitus: Kovan luoteistuulen todennäköisyys on 30 % keskiviikon ja torstain välisestä yöstä torstaipäivään.",
    "lvl": 1
   }
  ],
