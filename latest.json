@@ -1,43 +1,43 @@
 {
- "updated": "2026-11-03T11:05+00:00",
+ "updated": "2026-11-03T19:39+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-11-03",
-   "shear": 29.1,
+   "shear": 24.9,
    "srh": null,
-   "li": 11.3
+   "li": 10.0
   },
   {
    "date": "2026-11-04",
    "shear": 30.0,
    "srh": null,
-   "li": 9.8
+   "li": 9.4
   },
   {
    "date": "2026-11-05",
-   "shear": 36.6,
+   "shear": 36.4,
    "srh": null,
-   "li": 6.9
+   "li": 7.4
   },
   {
    "date": "2026-11-06",
-   "shear": 31.6,
+   "shear": 40.2,
    "srh": null,
-   "li": 11.1
+   "li": 12.0
   }
  ],
  "warnings": [
   {
    "title": "Keltainen tuulivaroitus merelle: Selkämeri, to 0.00 - 18.00",
-   "desc": "Kovan tuulen varoitus: Kovan luoteistuulen todennäköisyys on 30 % keskiviikon ja torstain välisestä yöstä torstai-iltaan.",
+   "desc": "Kovan tuulen varoitus: Kovan luoteistuulen todennäköisyys on 70 % keskiviikon ja torstain välisestä yöstä torstai-iltaan.",
    "lvl": 1
   },
   {
-   "title": "Keltainen liikennesää: Paikoin maan keskiosa, ti 19.00 - ke 0.00",
-   "desc": "Liikennesää: Ajokeli muuttuu huonoksi illalla kuuraisten teiden vuoksi.",
+   "title": "Keltainen liikennesää: Paikoin maan keskiosa, ti 20.14 - ke 2.00",
+   "desc": "Liikennesää: Ajokeli on huono aluksi kuuraisten teiden vuoksi.",
    "lvl": 1
   }
  ],
