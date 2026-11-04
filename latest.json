@@ -1,43 +1,48 @@
 {
- "updated": "2026-11-03T19:39+00:00",
+ "updated": "2026-11-04T01:31+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-11-03",
-   "shear": 24.9,
+   "shear": 24.1,
    "srh": null,
-   "li": 10.0
+   "li": 19.0
   },
   {
    "date": "2026-11-04",
-   "shear": 30.0,
+   "shear": 29.4,
    "srh": null,
-   "li": 9.4
+   "li": 9.2
   },
   {
    "date": "2026-11-05",
-   "shear": 36.4,
+   "shear": 40.1,
    "srh": null,
-   "li": 7.4
+   "li": 8.2
   },
   {
    "date": "2026-11-06",
-   "shear": 40.2,
+   "shear": 39.8,
    "srh": null,
-   "li": 12.0
+   "li": 12.2
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeri, to 0.00 - 18.00",
-   "desc": "Kovan tuulen varoitus: Kovan luoteistuulen todennäköisyys on 70 % keskiviikon ja torstain välisestä yöstä torstai-iltaan.",
+   "title": "Keltainen liikennesää: Paikoin maan keskiosa, ke 0.05 - 4.00",
+   "desc": "Liikennesää: Ajokeli on huono aluksi kuuraisten teiden vuoksi.",
    "lvl": 1
   },
   {
-   "title": "Keltainen liikennesää: Paikoin maan keskiosa, ti 20.14 - ke 2.00",
-   "desc": "Liikennesää: Ajokeli on huono aluksi kuuraisten teiden vuoksi.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, ke 11.00 - to 0.00",
+   "desc": "Kovan tuulen varoitus: Lännen ja luoteen välistä tuulta aamupäivästä alkaen 14 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Selkämeri, to 0.00 - 23.00",
+   "desc": "Kovan tuulen varoitus: Luoteistuulta keskiyöstä alkaen 16 m/s.",
    "lvl": 1
   }
  ],
