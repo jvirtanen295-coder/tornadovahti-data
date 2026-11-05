@@ -1,48 +1,48 @@
 {
- "updated": "2026-11-05T11:14+00:00",
+ "updated": "2026-11-05T20:43+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-11-05",
-   "shear": 33.3,
+   "shear": 32.2,
    "srh": null,
-   "li": 6.4
+   "li": 6.3
   },
   {
    "date": "2026-11-06",
-   "shear": 40.5,
+   "shear": 39.9,
    "srh": null,
-   "li": 12.1
+   "li": 11.8
   },
   {
    "date": "2026-11-07",
-   "shear": 16.5,
+   "shear": 16.9,
    "srh": null,
-   "li": 8.8
+   "li": 8.6
   },
   {
    "date": "2026-11-08",
-   "shear": 11.7,
+   "shear": 13.6,
    "srh": null,
-   "li": 10.9
+   "li": 8.8
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeren eteläosa, to 11.14 - 20.00",
-   "desc": "Kovan tuulen varoitus: Luoteistuulta aluksi 16 m/s.",
+   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Ahvenanmeri sekä paikoin Pohjanlahti, to 20.13 - pe 0.00",
+   "desc": "POISTETTU: Kovan tuulen varoitus: Pohjoisen ja luoteen välistä tuulta aluksi 14 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, to 11.14 - pe 0.00",
-   "desc": "Kovan tuulen varoitus: Luoteistuulta aluksi 14 m/s.",
+   "title": "Keltainen liikennesää: Paikoin koko maa, to 22.16 - pe 10.00",
+   "desc": "Liikennesää: Ajokeli on huono aluksi tienpintojen jäätymisen vuoksi.",
    "lvl": 1
   },
   {
-   "title": "Keltainen liikennesää: Paikoin koko maa, pe 0.00 - 8.00",
-   "desc": "Liikennesää: Ajokeli muuttuu huonoksi yöllä ja aamulla kuuraisten teiden vuoksi.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, to 22.16 - pe 3.00",
+   "desc": "Kovan tuulen varoitus: Pohjoisen ja luoteen välistä tuulta aluksi 14 m/s.",
    "lvl": 1
   }
  ],
