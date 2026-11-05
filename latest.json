@@ -1,48 +1,38 @@
 {
- "updated": "2026-11-04T19:55+00:00",
+ "updated": "2026-11-05T01:33+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-11-04",
-   "shear": 28.9,
+   "shear": 28.5,
    "srh": null,
-   "li": 8.9
+   "li": 10.4
   },
   {
    "date": "2026-11-05",
-   "shear": 31.9,
+   "shear": 32.6,
    "srh": null,
-   "li": 6.5
+   "li": 7.0
   },
   {
    "date": "2026-11-06",
-   "shear": 40.4,
+   "shear": 40.9,
    "srh": null,
-   "li": 12.1
+   "li": 11.7
   },
   {
    "date": "2026-11-07",
-   "shear": 16.3,
+   "shear": 16.7,
    "srh": null,
-   "li": 9.5
+   "li": 8.7
   }
  ],
  "warnings": [
   {
-   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Selkämeri, ke 22.00 - to 0.00",
-   "desc": "POISTETTU: Kovan tuulen varoitus: Lännen ja luoteen välistä tuulta iltayöllä 14 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeri, to 0.00 - pe 0.00",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeri, to 0.01 - pe 0.00",
    "desc": "Kovan tuulen varoitus: Luoteistuulta aluksi 16 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeri ja Perämeri, ke 20.21 - to 0.00",
-   "desc": "Kovan tuulen varoitus: Lännen ja luoteen välistä tuulta aluksi 14 m/s.",
    "lvl": 1
   }
  ],
