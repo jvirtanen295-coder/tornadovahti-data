@@ -1,43 +1,38 @@
 {
- "updated": "2026-11-06T01:40+00:00",
+ "updated": "2026-11-06T11:12+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-11-05",
-   "shear": 31.3,
-   "srh": null,
-   "li": 7.0
-  },
-  {
    "date": "2026-11-06",
-   "shear": 39.1,
+   "shear": 39.0,
    "srh": null,
-   "li": 11.8
+   "li": 11.5
   },
   {
    "date": "2026-11-07",
-   "shear": 16.3,
+   "shear": 17.3,
    "srh": null,
-   "li": 8.7
+   "li": 8.8
   },
   {
    "date": "2026-11-08",
-   "shear": 13.4,
+   "shear": 13.0,
    "srh": null,
-   "li": 9.0
+   "li": 8.5
+  },
+  {
+   "date": "2026-11-09",
+   "shear": 11.4,
+   "srh": null,
+   "li": 13.3
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen liikennesää: Paikoin koko maa, pe 0.02 - 10.00",
-   "desc": "Liikennesää: Ajokeli on huono aluksi tienpintojen jäätymisen vuoksi.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, pe 0.02 - 3.00",
-   "desc": "Kovan tuulen varoitus: Pohjoisen ja luoteen välistä tuulta aluksi 14 m/s.",
+   "title": "Keltainen liikennesää: Paikoin maan keskiosa, pe 22.00 - la 7.00",
+   "desc": "Liikennesää: Ajokeli muuttuu huonoksi iltayöstä alkaen kuuraisten teiden vuoksi.",
    "lvl": 1
   }
  ],
