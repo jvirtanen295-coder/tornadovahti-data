@@ -1,47 +1,42 @@
 {
- "updated": "2026-11-05T20:43+00:00",
+ "updated": "2026-11-06T01:40+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-11-05",
-   "shear": 32.2,
+   "shear": 31.3,
    "srh": null,
-   "li": 6.3
+   "li": 7.0
   },
   {
    "date": "2026-11-06",
-   "shear": 39.9,
+   "shear": 39.1,
    "srh": null,
    "li": 11.8
   },
   {
    "date": "2026-11-07",
-   "shear": 16.9,
+   "shear": 16.3,
    "srh": null,
-   "li": 8.6
+   "li": 8.7
   },
   {
    "date": "2026-11-08",
-   "shear": 13.6,
+   "shear": 13.4,
    "srh": null,
-   "li": 8.8
+   "li": 9.0
   }
  ],
  "warnings": [
   {
-   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Ahvenanmeri sekä paikoin Pohjanlahti, to 20.13 - pe 0.00",
-   "desc": "POISTETTU: Kovan tuulen varoitus: Pohjoisen ja luoteen välistä tuulta aluksi 14 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen liikennesää: Paikoin koko maa, to 22.16 - pe 10.00",
+   "title": "Keltainen liikennesää: Paikoin koko maa, pe 0.02 - 10.00",
    "desc": "Liikennesää: Ajokeli on huono aluksi tienpintojen jäätymisen vuoksi.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, to 22.16 - pe 3.00",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, pe 0.02 - 3.00",
    "desc": "Kovan tuulen varoitus: Pohjoisen ja luoteen välistä tuulta aluksi 14 m/s.",
    "lvl": 1
   }
