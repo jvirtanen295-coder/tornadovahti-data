@@ -1,37 +1,37 @@
 {
- "updated": "2026-11-08T13:42+00:00",
+ "updated": "2026-11-08T19:48+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-11-08",
-   "shear": 12.3,
+   "shear": 12.5,
    "srh": null,
-   "li": 10.1
+   "li": 9.4
   },
   {
    "date": "2026-11-09",
-   "shear": 14.0,
+   "shear": 15.0,
    "srh": null,
-   "li": 12.6
+   "li": 12.5
   },
   {
    "date": "2026-11-10",
-   "shear": 14.5,
+   "shear": 13.7,
    "srh": null,
-   "li": 9.0
+   "li": 8.9
   },
   {
    "date": "2026-11-11",
-   "shear": 6.7,
+   "shear": 7.5,
    "srh": null,
-   "li": 7.9
+   "li": 4.8
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen liikennesää: Paikoin maan länsiosa, ma 1.00 - 11.00",
+   "title": "Keltainen liikennesää: Pohjois-Pohjanmaa sekä paikoin maan länsiosa, ma 1.00 - 11.00",
    "desc": "Liikennesää: Ajokeli muuttuu huonoksi yöstä alkaen kuuraisten teiden vuoksi.",
    "lvl": 1
   }
