@@ -1,38 +1,43 @@
 {
- "updated": "2026-11-09T01:02+00:00",
+ "updated": "2026-11-09T11:52+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-11-08",
-   "shear": 11.2,
-   "srh": null,
-   "li": 11.2
-  },
-  {
    "date": "2026-11-09",
-   "shear": 14.4,
+   "shear": 14.7,
    "srh": null,
-   "li": 12.7
+   "li": 12.1
   },
   {
    "date": "2026-11-10",
-   "shear": 13.1,
+   "shear": 13.2,
    "srh": null,
-   "li": 7.8
+   "li": 8.6
   },
   {
    "date": "2026-11-11",
-   "shear": 10.7,
+   "shear": 7.1,
    "srh": null,
-   "li": 5.2
+   "li": 4.6
+  },
+  {
+   "date": "2026-11-12",
+   "shear": 11.7,
+   "srh": null,
+   "li": 6.6
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen liikennesää: Pohjois-Pohjanmaa sekä paikoin maan länsiosa, ma 0.00 - 11.00",
-   "desc": "Liikennesää: Ajokeli on huono aluksi kuuraisten teiden vuoksi.",
+   "title": "Keltainen liikennesää: Maan keski- ja paikoin pohjoisosa, pe 0.00 - la 0.00",
+   "desc": "Liikennesää: Huonon ajokelin todennäköisyys on 30 % torstain ja perjantain välisestä yöstä perjantain ja lauantain väliseen yöhön lumi- tai räntäsateen vuoksi.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen liikennesää: Maan keski- ja paikoin pohjoisosa, to 0.00 - pe 0.00",
+   "desc": "Liikennesää: Huonon ajokelin todennäköisyys on 30 % keskiviikon ja torstain välisestä yöstä torstain ja perjantain väliseen yöhön lumi- tai räntäsateen vuoksi.",
    "lvl": 1
   }
  ],
