@@ -1,43 +1,53 @@
 {
- "updated": "2026-11-09T11:52+00:00",
+ "updated": "2026-11-09T22:33+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-11-09",
-   "shear": 14.7,
+   "shear": 14.1,
    "srh": null,
-   "li": 12.1
+   "li": 12.5
   },
   {
    "date": "2026-11-10",
-   "shear": 13.2,
+   "shear": 12.3,
    "srh": null,
-   "li": 8.6
+   "li": 8.7
   },
   {
    "date": "2026-11-11",
-   "shear": 7.1,
+   "shear": 8.6,
    "srh": null,
-   "li": 4.6
+   "li": 5.8
   },
   {
    "date": "2026-11-12",
-   "shear": 11.7,
+   "shear": 14.2,
    "srh": null,
-   "li": 6.6
+   "li": 6.2
   }
  ],
  "warnings": [
+  {
+   "title": "Keltainen tuulivaroitus merelle: Perämeri, ti 7.00 - 13.00",
+   "desc": "Kovan tuulen varoitus: Lounaistuulta aamulla ja aamupäivällä 14 m/s.",
+   "lvl": 1
+  },
   {
    "title": "Keltainen liikennesää: Maan keski- ja paikoin pohjoisosa, pe 0.00 - la 0.00",
    "desc": "Liikennesää: Huonon ajokelin todennäköisyys on 30 % torstain ja perjantain välisestä yöstä perjantain ja lauantain väliseen yöhön lumi- tai räntäsateen vuoksi.",
    "lvl": 1
   },
   {
-   "title": "Keltainen liikennesää: Maan keski- ja paikoin pohjoisosa, to 0.00 - pe 0.00",
-   "desc": "Liikennesää: Huonon ajokelin todennäköisyys on 30 % keskiviikon ja torstain välisestä yöstä torstain ja perjantain väliseen yöhön lumi- tai räntäsateen vuoksi.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, pe 14.00 - la 0.00",
+   "desc": "Kovan tuulen varoitus: Kovan pohjoisen ja luoteen välisen tuulen todennäköisyys on 30 % perjantaipäivästä perjantain ja lauantain väliseen yöhön.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen liikennesää: Maan keski- ja paikoin pohjoisosa, la 0.00 - 22.00",
+   "desc": "Liikennesää: Huonon ajokelin todennäköisyys on 30 % perjantain ja lauantain välisestä yöstä lauantai-iltaan lumi- tai räntäsateen vuoksi.",
    "lvl": 1
   }
  ],
