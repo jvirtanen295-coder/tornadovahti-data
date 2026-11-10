@@ -1,32 +1,32 @@
 {
- "updated": "2026-11-10T17:11+00:00",
+ "updated": "2026-11-10T23:34+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-11-10",
-   "shear": 12.1,
+   "shear": 8.5,
    "srh": null,
-   "li": 9.0
+   "li": 9.2
   },
   {
    "date": "2026-11-11",
-   "shear": 9.2,
+   "shear": 8.2,
    "srh": null,
-   "li": 5.8
+   "li": 5.5
   },
   {
    "date": "2026-11-12",
-   "shear": 13.8,
+   "shear": 13.2,
    "srh": null,
-   "li": 4.3
+   "li": 4.4
   },
   {
    "date": "2026-11-13",
-   "shear": 5.5,
+   "shear": 8.4,
    "srh": null,
-   "li": 6.8
+   "li": 4.9
   }
  ],
  "warnings": [
@@ -36,18 +36,18 @@
    "lvl": 1
   },
   {
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, pe 14.00 - la 8.00",
+   "desc": "Kovan tuulen varoitus: Kovan pohjoisen ja luoteen välisen tuulen todennäköisyys on 30 % perjantaipäivästä lauantaiaamuun.",
+   "lvl": 1
+  },
+  {
    "title": "Keltainen liikennesää: Maan keski- ja paikoin pohjoisosa, la 0.00 - su 0.00",
    "desc": "Liikennesää: Huonon ajokelin todennäköisyys on 30 % perjantain ja lauantain välisestä yöstä lauantain ja sunnuntain väliseen yöhön lumi- tai räntäsateen vuoksi.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Suomenlahden länsiosa ja Pohjois-Itämeri, to 14.00 - pe 0.00",
-   "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 60 % torstaipäivästä torstain ja perjantain väliseen yöhön.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, pe 14.00 - la 8.00",
-   "desc": "Kovan tuulen varoitus: Kovan pohjoisen ja luoteen välisen tuulen todennäköisyys on 30 % perjantaipäivästä lauantaiaamuun.",
+   "title": "Keltainen tuulivaroitus merelle: Suomenlahden itäosa ja Selkämeren eteläosa, to 14.00 - pe 0.00",
+   "desc": "Kovan tuulen varoitus: Kovan kaakkoistuulen todennäköisyys on 30 % torstaipäivästä torstain ja perjantain väliseen yöhön.",
    "lvl": 1
   }
  ],
