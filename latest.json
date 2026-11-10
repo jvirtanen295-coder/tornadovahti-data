@@ -1,43 +1,38 @@
 {
- "updated": "2026-11-10T07:35+00:00",
+ "updated": "2026-11-10T17:11+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-11-09",
-   "shear": 13.3,
-   "srh": null,
-   "li": 12.2
-  },
-  {
    "date": "2026-11-10",
-   "shear": 12.5,
+   "shear": 12.1,
    "srh": null,
-   "li": 8.9
+   "li": 9.0
   },
   {
    "date": "2026-11-11",
-   "shear": 8.5,
+   "shear": 9.2,
    "srh": null,
-   "li": 5.2
+   "li": 5.8
   },
   {
    "date": "2026-11-12",
-   "shear": 12.6,
+   "shear": 13.8,
    "srh": null,
-   "li": 5.1
+   "li": 4.3
+  },
+  {
+   "date": "2026-11-13",
+   "shear": 5.5,
+   "srh": null,
+   "li": 6.8
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen liikennesää: Maan keski- ja paikoin pohjoisosa, pe 0.00 - la 0.00",
+   "title": "Keltainen liikennesää: Paikoin koko maa, pe 0.00 - la 0.00",
    "desc": "Liikennesää: Huonon ajokelin todennäköisyys on 60 % torstain ja perjantain välisestä yöstä perjantain ja lauantain väliseen yöhön lumi- tai räntäsateen vuoksi.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Perämeri, ti 8.57 - 11.00",
-   "desc": "Kovan tuulen varoitus: Lounaistuulta aluksi 14 m/s.",
    "lvl": 1
   },
   {
@@ -46,8 +41,13 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, pe 14.00 - la 0.00",
-   "desc": "Kovan tuulen varoitus: Kovan pohjoisen ja luoteen välisen tuulen todennäköisyys on 30 % perjantaipäivästä perjantain ja lauantain väliseen yöhön.",
+   "title": "Keltainen tuulivaroitus merelle: Suomenlahden länsiosa ja Pohjois-Itämeri, to 14.00 - pe 0.00",
+   "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 60 % torstaipäivästä torstain ja perjantain väliseen yöhön.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, pe 14.00 - la 8.00",
+   "desc": "Kovan tuulen varoitus: Kovan pohjoisen ja luoteen välisen tuulen todennäköisyys on 30 % perjantaipäivästä lauantaiaamuun.",
    "lvl": 1
   }
  ],
