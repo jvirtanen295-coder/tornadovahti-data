@@ -1,43 +1,38 @@
 {
- "updated": "2026-11-11T06:49+00:00",
+ "updated": "2026-11-11T17:19+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-11-10",
-   "shear": 6.7,
-   "srh": null,
-   "li": 9.2
-  },
-  {
    "date": "2026-11-11",
-   "shear": 8.0,
+   "shear": 8.2,
    "srh": null,
-   "li": 5.9
+   "li": 5.6
   },
   {
    "date": "2026-11-12",
-   "shear": 15.8,
+   "shear": 14.4,
    "srh": null,
-   "li": 4.8
+   "li": 4.5
   },
   {
    "date": "2026-11-13",
-   "shear": 7.0,
+   "shear": 6.9,
    "srh": null,
-   "li": 5.3
+   "li": 4.6
+  },
+  {
+   "date": "2026-11-14",
+   "shear": 14.7,
+   "srh": null,
+   "li": 7.6
   }
  ],
  "warnings": [
   {
    "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, pe 14.00 - la 8.00",
    "desc": "Kovan tuulen varoitus: Kovan pohjoisen ja luoteen välisen tuulen todennäköisyys on 30 % perjantaipäivästä lauantaiaamuun.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen liikennesää: Maan keski- ja paikoin pohjoisosa, la 0.00 - su 0.00",
-   "desc": "Liikennesää: Huonon ajokelin todennäköisyys on 30 % perjantain ja lauantain välisestä yöstä lauantain ja sunnuntain väliseen yöhön lumi- tai räntäsateen vuoksi.",
    "lvl": 1
   },
   {
@@ -48,6 +43,11 @@
   {
    "title": "Keltainen tuulivaroitus merelle: Suomenlahden länsiosa ja Pohjois-Itämeri, su 0.00 - ma 0.00",
    "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 30 % lauantain ja sunnuntain välisestä yöstä sunnuntain ja maanantain väliseen yöhön.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Suomenlahden itäosa ja Selkämeren eteläosa, to 14.00 - pe 8.00",
+   "desc": "Kovan tuulen varoitus: Kaakkoistuulta iltapäivästä alkaen 14 m/s.",
    "lvl": 1
   },
   {
