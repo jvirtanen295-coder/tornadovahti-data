@@ -1,32 +1,32 @@
 {
- "updated": "2026-11-12T11:31+00:00",
+ "updated": "2026-11-12T20:09+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-11-12",
-   "shear": 12.8,
+   "shear": 12.7,
    "srh": null,
-   "li": 4.4
+   "li": 4.2
   },
   {
    "date": "2026-11-13",
-   "shear": 6.3,
+   "shear": 6.5,
    "srh": null,
-   "li": 4.6
+   "li": 4.9
   },
   {
    "date": "2026-11-14",
-   "shear": 21.1,
+   "shear": 21.5,
    "srh": null,
    "li": 7.2
   },
   {
    "date": "2026-11-15",
-   "shear": 20.0,
+   "shear": 21.0,
    "srh": null,
-   "li": 8.0
+   "li": 8.5
   }
  ],
  "warnings": [
@@ -36,23 +36,23 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen liikennesää: Paikoin koko maa, pe 8.00 - la 0.00",
-   "desc": "Liikennesää: Ajokeli muuttuu huonoksi aamusta alkaen lumi- tai räntäsateen vuoksi.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 0.00 - ma 0.00",
-   "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 30 % lauantain ja sunnuntain välisestä yöstä sunnuntain ja maanantain väliseen yöhön.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, pe 20.00 - la 0.00",
-   "desc": "Kovan tuulen varoitus: Kovan pohjoisen ja luoteen välisen tuulen todennäköisyys on 30 % perjantaina illalla ja perjantain ja lauantain välisenä yönä.",
+   "title": "Keltainen liikennesää: Paikoin koko maa, pe 0.00 - la 0.00",
+   "desc": "Liikennesää: Ajokeli on huono aluksi lumi- tai räntäsateen vuoksi.",
    "lvl": 1
   },
   {
    "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, la 0.00 - 8.00",
-   "desc": "Kovan tuulen varoitus: Kovan pohjoisen ja luoteen välisen tuulen todennäköisyys on 30 % perjantain ja lauantain välisenä yönä ja lauantaina aamulla.",
+   "desc": "Kovan tuulen varoitus: Kovan pohjoisen ja luoteen välisen tuulen todennäköisyys on 70 % perjantain ja lauantain välisenä yönä ja lauantaina aamulla.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, pe 17.00 - la 0.00",
+   "desc": "Kovan tuulen varoitus: Pohjoisen ja luoteen välistä tuulta illalla 17 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, to 20.13 - pe 0.00",
+   "desc": "Kovan tuulen varoitus: Kaakkoistuulta aluksi 14 m/s.",
    "lvl": 1
   }
  ],
