@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-12T20:09+00:00",
+ "updated": "2026-11-13T02:00+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-11-12",
-   "shear": 12.7,
+   "shear": 9.4,
    "srh": null,
-   "li": 4.2
+   "li": 4.3
   },
   {
    "date": "2026-11-13",
-   "shear": 6.5,
+   "shear": 8.6,
    "srh": null,
-   "li": 4.9
+   "li": 6.5
   },
   {
    "date": "2026-11-14",
-   "shear": 21.5,
+   "shear": 18.7,
    "srh": null,
-   "li": 7.2
+   "li": 7.0
   },
   {
    "date": "2026-11-15",
-   "shear": 21.0,
+   "shear": 22.0,
    "srh": null,
-   "li": 8.5
+   "li": 9.1
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Suomenlahden länsiosa ja Pohjois-Itämeri, su 0.00 - ma 0.00",
+   "title": "Keltainen tuulivaroitus merelle: Suomenlahden länsiosa ja Pohjois-Itämeren itäosa, su 0.00 - ma 0.00",
    "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 30 % lauantain ja sunnuntain välisestä yöstä sunnuntain ja maanantain väliseen yöhön.",
    "lvl": 1
   },
   {
-   "title": "Keltainen liikennesää: Paikoin koko maa, pe 0.00 - la 0.00",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, pe 17.00 - la 0.00",
+   "desc": "Kovan tuulen varoitus: Pohjoisen ja luoteen välistä tuulta illalla 19 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen liikennesää: Paikoin koko maa, pe 0.17 - la 0.00",
    "desc": "Liikennesää: Ajokeli on huono aluksi lumi- tai räntäsateen vuoksi.",
    "lvl": 1
   },
   {
    "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, la 0.00 - 8.00",
-   "desc": "Kovan tuulen varoitus: Kovan pohjoisen ja luoteen välisen tuulen todennäköisyys on 70 % perjantain ja lauantain välisenä yönä ja lauantaina aamulla.",
+   "desc": "Kovan tuulen varoitus: Pohjoisen ja luoteen välistä tuulta yöllä ja aamulla 17 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, pe 17.00 - la 0.00",
-   "desc": "Kovan tuulen varoitus: Pohjoisen ja luoteen välistä tuulta illalla 17 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, to 20.13 - pe 0.00",
-   "desc": "Kovan tuulen varoitus: Kaakkoistuulta aluksi 14 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 0.00 - ma 0.00",
+   "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 30 % lauantain ja sunnuntain välisestä yöstä sunnuntain ja maanantain väliseen yöhön.",
    "lvl": 1
   }
  ],
