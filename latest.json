@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-14T22:37+00:00",
+ "updated": "2026-11-15T06:51+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-11-14",
-   "shear": 20.4,
+   "shear": 22.0,
    "srh": null,
-   "li": 8.4
+   "li": 12.4
   },
   {
    "date": "2026-11-15",
-   "shear": 23.6,
+   "shear": 23.3,
    "srh": null,
-   "li": 9.2
+   "li": 9.0
   },
   {
    "date": "2026-11-16",
-   "shear": 28.7,
+   "shear": 25.1,
    "srh": null,
-   "li": 8.8
+   "li": 9.1
   },
   {
    "date": "2026-11-17",
-   "shear": 18.6,
+   "shear": 17.6,
    "srh": null,
-   "li": 5.3
+   "li": 4.4
   }
  ],
  "warnings": [
   {
-   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Suomenlahti ja Pohjois-Itämeren itäosa, su 5.00 - ma 0.00",
-   "desc": "POISTETTU: Kovan tuulen varoitus: Lounaistuulta aamuyöstä alkaen 18 m/s.",
+   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ma 5.00 - 15.00",
+   "desc": "POISTETTU: Kovan tuulen varoitus: Lounaistuulta aamuyöstä alkaen 14 m/s.",
    "lvl": 1
   },
   {
-   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 2.00 - ma 0.00",
-   "desc": "POISTETTU: Kovan tuulen varoitus: Lounaistuulta yöstä alkaen 16 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 8.34 - 23.00",
+   "desc": "Kovan tuulen varoitus: Lounaistuulta aluksi 16 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ma 0.00 - 23.00",
-   "desc": "Kovan tuulen varoitus: Lounaistuulta keskiyöstä alkaen 14 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Pohjois-Itämeri sekä paikoin Pohjanlahti, su 8.34 - 23.00",
+   "desc": "Kovan tuulen varoitus: Lounaistuulta aluksi 18 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Suomenlahden länsiosa ja Pohjois-Itämeri, ma 0.00 - 23.00",
-   "desc": "Kovan tuulen varoitus: Lounaistuulta keskiyöstä alkaen 16 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 23.00 - ma 5.00",
+   "desc": "Kovan tuulen varoitus: Etelän ja lounaan välistä tuulta yöllä 16 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, ma 0.00 - 17.00",
-   "desc": "Kovan tuulen varoitus: Lounaistuulta keskiyöstä alkaen 16 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, ma 5.00 - 15.00",
+   "desc": "Kovan tuulen varoitus: Lounaistuulta aamuyöstä alkaen 16 m/s.",
    "lvl": 1
   }
  ],
