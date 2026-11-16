@@ -1,53 +1,38 @@
 {
- "updated": "2026-11-16T06:51+00:00",
+ "updated": "2026-11-16T19:45+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-11-15",
-   "shear": 24.0,
+   "date": "2026-11-16",
+   "shear": 21.2,
    "srh": null,
    "li": 10.4
   },
   {
-   "date": "2026-11-16",
-   "shear": 24.7,
-   "srh": null,
-   "li": 8.2
-  },
-  {
    "date": "2026-11-17",
-   "shear": 14.8,
+   "shear": 13.6,
    "srh": null,
-   "li": 4.4
+   "li": 7.6
   },
   {
    "date": "2026-11-18",
-   "shear": 13.0,
+   "shear": 14.6,
    "srh": null,
-   "li": 4.6
+   "li": 6.5
+  },
+  {
+   "date": "2026-11-19",
+   "shear": 11.4,
+   "srh": null,
+   "li": 10.9
   }
  ],
  "warnings": [
   {
-   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Saaristomeri ja Selkämeren eteläosa, ma 5.14 - 9.00",
-   "desc": "POISTETTU: Kovan tuulen varoitus: Etelän ja lounaan välistä tuulta aluksi 14 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, ma 5.14 - 9.00",
-   "desc": "POISTETTU: Kovan tuulen varoitus: Lounaistuulta aluksi 16 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, ti 11.00 - ke 6.00",
-   "desc": "Kovan tuulen varoitus: Kovan koillistuulen todennäköisyys on 60 % tiistaipäivästä keskiviikkoaamuun.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Perämeri, ma 8.35 - 12.00",
-   "desc": "Kovan tuulen varoitus: Lounaistuulta aluksi 14 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, ti 14.00 - ke 6.00",
+   "desc": "Kovan tuulen varoitus: Koillistuulta iltapäivästä alkaen 14 m/s.",
    "lvl": 1
   }
  ],
