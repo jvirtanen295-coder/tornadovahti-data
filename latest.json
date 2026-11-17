@@ -1,38 +1,43 @@
 {
- "updated": "2026-11-17T04:02+00:00",
+ "updated": "2026-11-17T16:17+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-11-16",
-   "shear": 20.3,
-   "srh": null,
-   "li": 10.8
-  },
-  {
    "date": "2026-11-17",
-   "shear": 14.0,
+   "shear": 13.6,
    "srh": null,
-   "li": 9.3
+   "li": 8.4
   },
   {
    "date": "2026-11-18",
-   "shear": 13.9,
+   "shear": 14.8,
    "srh": null,
-   "li": 7.1
+   "li": 7.4
   },
   {
    "date": "2026-11-19",
-   "shear": 14.4,
+   "shear": 12.2,
    "srh": null,
-   "li": 10.3
+   "li": 8.8
+  },
+  {
+   "date": "2026-11-20",
+   "shear": 21.5,
+   "srh": null,
+   "li": 9.2
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, ti 14.00 - ke 8.00",
-   "desc": "Kovan tuulen varoitus: Koillistuulta iltapäivästä alkaen 14 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, ti 17.46 - ke 12.00",
+   "desc": "Kovan tuulen varoitus: Koillistuulta aluksi 17 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen liikennesää: Paikoin koko maa, la 0.00 - su 0.00",
+   "desc": "Liikennesää: Huonon ajokelin todennäköisyys on 30 % perjantain ja lauantain välisestä yöstä lauantain ja sunnuntain väliseen yöhön lumi- tai räntäsateen vuoksi.",
    "lvl": 1
   }
  ],
