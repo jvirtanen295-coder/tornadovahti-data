@@ -1,38 +1,38 @@
 {
- "updated": "2026-11-18T01:03+00:00",
+ "updated": "2026-11-18T11:58+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-11-17",
-   "shear": 7.0,
-   "srh": null,
-   "li": 7.2
-  },
-  {
    "date": "2026-11-18",
-   "shear": 13.2,
+   "shear": 12.9,
    "srh": null,
-   "li": 4.6
+   "li": 5.4
   },
   {
    "date": "2026-11-19",
-   "shear": 15.9,
+   "shear": 13.5,
    "srh": null,
    "li": 10.3
   },
   {
    "date": "2026-11-20",
-   "shear": 20.6,
+   "shear": 20.1,
    "srh": null,
-   "li": 7.7
+   "li": 8.7
+  },
+  {
+   "date": "2026-11-21",
+   "shear": 13.7,
+   "srh": null,
+   "li": 8.8
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, ke 0.00 - 12.00",
-   "desc": "Kovan tuulen varoitus: Koillistuulta aluksi 17 m/s.",
+   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa ja Merenkurkku, ke 8.28 - 12.00",
+   "desc": "POISTETTU: Kovan tuulen varoitus: Koillistuulta aluksi 17 m/s.",
    "lvl": 1
   },
   {
@@ -41,8 +41,18 @@
    "lvl": 1
   },
   {
+   "title": "Keltainen liikennesää: Maan keskiosa, to 14.00 - pe 0.00",
+   "desc": "Liikennesää: Huonon ajokelin todennäköisyys on 30 % torstaipäivästä torstain ja perjantain väliseen yöhön lumi- tai räntäsateen vuoksi.",
+   "lvl": 1
+  },
+  {
    "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, la 14.00 - su 22.00",
    "desc": "Kovan tuulen varoitus: Kovan pohjoistuulen todennäköisyys on 30 % lauantaipäivästä sunnuntai-iltaan.",
+   "lvl": 1
+  },
+  {
+   "title": "Oranssi aallokkovaroitus: Paikoin kaikki merialueet, la 21.00 - su 17.00",
+   "desc": "Aallokkovaroitus: Lauantai-illasta sunnuntai-iltaan kovan aallokon todennäköisyys on 30 %. Merkitsevä aallonkorkeus voi ylittää 4 metriä.",
    "lvl": 1
   }
  ],
