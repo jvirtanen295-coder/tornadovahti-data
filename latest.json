@@ -1,48 +1,38 @@
 {
- "updated": "2026-11-19T20:50+00:00",
+ "updated": "2026-11-20T02:27+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-11-19",
-   "shear": 11.3,
+   "shear": 9.2,
    "srh": null,
-   "li": 11.4
+   "li": 11.8
   },
   {
    "date": "2026-11-20",
-   "shear": 20.7,
+   "shear": 20.2,
    "srh": null,
-   "li": 8.9
+   "li": 8.5
   },
   {
    "date": "2026-11-21",
-   "shear": 18.5,
+   "shear": 17.5,
    "srh": null,
-   "li": 7.9
+   "li": 7.5
   },
   {
    "date": "2026-11-22",
-   "shear": 10.6,
+   "shear": 12.9,
    "srh": null,
-   "li": 11.1
+   "li": 10.5
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, la 2.00 - su 0.00",
-   "desc": "Kovan tuulen varoitus: Kovan pohjoistuulen todennäköisyys on 30 % perjantain ja lauantain välisestä yöstä lauantain ja sunnuntain väliseen yöhön.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen liikennesää: Paikoin maan keskiosa, to 20.18 - pe 0.00",
-   "desc": "Liikennesää: Ajokeli on huono aluksi lumi- tai räntäsateen vuoksi.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen liikennesää: Maan keski- ja paikoin pohjoisosa, la 0.00 - su 0.00",
-   "desc": "Liikennesää: Huonon ajokelin todennäköisyys on 70 % perjantain ja lauantain välisestä yöstä lauantain ja sunnuntain väliseen yöhön lumisateen vuoksi.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 0.00 - ma 0.00",
+   "desc": "Kovan tuulen varoitus: Kovan pohjoistuulen todennäköisyys on 70 % lauantain ja sunnuntain välisestä yöstä sunnuntain ja maanantain väliseen yöhön.",
    "lvl": 1
   },
   {
@@ -51,8 +41,18 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 0.00 - ma 17.00",
-   "desc": "Kovan tuulen varoitus: Kovan pohjoistuulen todennäköisyys on 30 % lauantain ja sunnuntain välisestä yöstä maanantai-iltaan.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, la 8.00 - su 0.00",
+   "desc": "Kovan tuulen varoitus: Kovan pohjoistuulen todennäköisyys on 70 % lauantaiaamusta lauantain ja sunnuntain väliseen yöhön.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ma 0.00 - 15.00",
+   "desc": "Kovan tuulen varoitus: Kovan pohjoistuulen todennäköisyys on 40 % sunnuntain ja maanantain välisestä yöstä maanantaipäivään.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, la 8.00 - su 0.00",
+   "desc": "Kovan tuulen varoitus: Kovan pohjoisen ja koillisen välisen tuulen todennäköisyys on 70 % lauantaiaamusta lauantain ja sunnuntain väliseen yöhön.",
    "lvl": 1
   }
  ],
