@@ -1,48 +1,38 @@
 {
- "updated": "2026-11-21T02:33+00:00",
+ "updated": "2026-11-21T11:27+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-11-20",
-   "shear": 14.2,
-   "srh": null,
-   "li": 8.6
-  },
-  {
    "date": "2026-11-21",
-   "shear": 17.8,
+   "shear": 18.6,
    "srh": null,
-   "li": 8.9
+   "li": 8.7
   },
   {
    "date": "2026-11-22",
-   "shear": 16.7,
+   "shear": 12.2,
    "srh": null,
-   "li": 10.5
+   "li": 10.7
   },
   {
    "date": "2026-11-23",
-   "shear": 13.1,
+   "shear": 10.2,
    "srh": null,
-   "li": 11.5
+   "li": 13.2
+  },
+  {
+   "date": "2026-11-24",
+   "shear": 17.9,
+   "srh": null,
+   "li": 13.9
   }
  ],
  "warnings": [
   {
    "title": "Keltainen tuulivaroitus merelle: Selkämeren eteläosa ja Perämeren pohjoisosa, la 13.00 - su 0.00",
-   "desc": "Kovan tuulen varoitus: Koillistuulta iltapäivästä alkaen 17 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen liikennesää: Paikoin koko maa, su 0.00 - ma 0.00",
-   "desc": "Liikennesää: Ajokeli muuttuu huonoksi keskiyöstä alkaen lumisateen ja tienpintojen jäätymisen vuoksi.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen liikennesää: Maan keski- ja paikoin pohjoisosa, la 0.00 - su 0.00",
-   "desc": "Liikennesää: Ajokeli on huono aluksi lumi- tai räntäsateen vuoksi.",
+   "desc": "Kovan tuulen varoitus: Koillistuulta aluksi 17 m/s.",
    "lvl": 1
   },
   {
@@ -51,8 +41,18 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, la 11.00 - su 0.00",
-   "desc": "Kovan tuulen varoitus: Pohjoisen ja koillisen välistä tuulta aamupäivästä alkaen 19 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, la 11.52 - su 0.00",
+   "desc": "Kovan tuulen varoitus: Pohjoisen ja koillisen välistä tuulta aluksi 19 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen liikennesää: Paikoin koko maa, su 0.00 - ma 0.00",
+   "desc": "Liikennesää: Ajokeli muuttuu huonoksi keskiyöstä alkaen lumisateen ja tienpintojen jäätymisen vuoksi.",
+   "lvl": 1
+  },
+  {
+   "title": "Oranssi tuulivaroitus merelle: Ahvenanmeri ja Selkämeren eteläosa, su 6.00 - ma 0.00",
+   "desc": "Myrskyvaroitus: Pohjoismyrskyä aamusta alkaen 21 m/s.",
    "lvl": 1
   }
  ],
