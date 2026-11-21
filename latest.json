@@ -1,43 +1,43 @@
 {
- "updated": "2026-11-20T20:35+00:00",
+ "updated": "2026-11-21T02:33+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-11-20",
-   "shear": 17.3,
+   "shear": 14.2,
    "srh": null,
-   "li": 9.0
+   "li": 8.6
   },
   {
    "date": "2026-11-21",
-   "shear": 18.4,
+   "shear": 17.8,
    "srh": null,
-   "li": 8.8
+   "li": 8.9
   },
   {
    "date": "2026-11-22",
-   "shear": 16.8,
+   "shear": 16.7,
    "srh": null,
-   "li": 10.6
+   "li": 10.5
   },
   {
    "date": "2026-11-23",
-   "shear": 10.8,
+   "shear": 13.1,
    "srh": null,
-   "li": 12.9
+   "li": 11.5
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 0.00 - ma 11.00",
-   "desc": "Kovan tuulen varoitus: Kovan pohjoistuulen todennäköisyys on 70 % lauantain ja sunnuntain välisestä yöstä maanantaipäivään.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeren eteläosa ja Perämeren pohjoisosa, la 13.00 - su 0.00",
+   "desc": "Kovan tuulen varoitus: Koillistuulta iltapäivästä alkaen 17 m/s.",
    "lvl": 1
   },
   {
    "title": "Keltainen liikennesää: Paikoin koko maa, su 0.00 - ma 0.00",
-   "desc": "Liikennesää: Huonon ajokelin todennäköisyys on 60 % lauantain ja sunnuntain välisestä yöstä sunnuntain ja maanantain väliseen yöhön lumisateen ja tienpintojen jäätymisen vuoksi.",
+   "desc": "Liikennesää: Ajokeli muuttuu huonoksi keskiyöstä alkaen lumisateen ja tienpintojen jäätymisen vuoksi.",
    "lvl": 1
   },
   {
@@ -46,8 +46,8 @@
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeren eteläosa ja Perämeren pohjoisosa, la 13.00 - su 0.00",
-   "desc": "Kovan tuulen varoitus: Koillistuulta iltapäivästä alkaen 17 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Pohjois-Itämeren länsiosa sekä paikoin Pohjanlahti, su 0.00 - ma 11.00",
+   "desc": "Kovan tuulen varoitus: Pohjoistuulta keskiyöstä alkaen 19 m/s.",
    "lvl": 1
   },
   {
