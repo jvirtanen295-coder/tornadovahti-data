@@ -1,58 +1,58 @@
 {
- "updated": "2026-11-22T01:27+00:00",
+ "updated": "2026-11-22T11:42+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-11-21",
-   "shear": 19.5,
-   "srh": null,
-   "li": 8.3
-  },
-  {
    "date": "2026-11-22",
-   "shear": 14.1,
+   "shear": 14.8,
    "srh": null,
-   "li": 10.7
+   "li": 10.4
   },
   {
    "date": "2026-11-23",
-   "shear": 10.9,
+   "shear": 10.5,
    "srh": null,
-   "li": 12.7
+   "li": 12.9
   },
   {
    "date": "2026-11-24",
-   "shear": 25.0,
+   "shear": 13.3,
    "srh": null,
-   "li": 14.2
+   "li": 13.6
+  },
+  {
+   "date": "2026-11-25",
+   "shear": 17.4,
+   "srh": null,
+   "li": 16.4
   }
  ],
  "warnings": [
+  {
+   "title": "Keltainen tuulivaroitus merelle: Pohjois-Itämeren länsiosa sekä paikoin Pohjanlahti, su 11.46 - ti 0.00",
+   "desc": "Kovan tuulen varoitus: Pohjoisen ja koillisen välistä tuulta aluksi 19 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen liikennesää: Paikoin maan etelä- ja keskiosa, su 11.46 - ma 0.00",
+   "desc": "Liikennesää: Ajokeli on huono aluksi lumisateen ja tienpintojen jäätymisen vuoksi.",
+   "lvl": 1
+  },
   {
    "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri ja Selkämeren eteläosa, ma 0.00 - ti 0.00",
    "desc": "Kovan tuulen varoitus: Pohjoisen ja koillisen välistä tuulta keskiyöstä alkaen 19 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen liikennesää: Paikoin maan etelä- ja keskiosa, su 0.00 - ma 0.00",
-   "desc": "Liikennesää: Ajokeli on huono aluksi lumisateen ja tienpintojen jäätymisen vuoksi.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Pohjois-Itämeren länsiosa sekä paikoin Pohjanlahti, su 0.00 - ti 0.00",
-   "desc": "Kovan tuulen varoitus: Pohjoisen ja koillisen välistä tuulta aluksi 19 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Oranssi aallokkovaroitus: Ahvenanmeri ja Selkämeri, su 0.00 - ma 14.00",
+   "title": "Oranssi aallokkovaroitus: Ahvenanmeri ja Selkämeri, su 11.46 - ma 14.00",
    "desc": "Aallokkovaroitus: Aluksi esiintyy kovaa aallokkoa, jossa merkitsevä aallonkorkeus ylittää 4 metriä.",
    "lvl": 1
   },
   {
-   "title": "Oranssi tuulivaroitus merelle: Ahvenanmeri ja Selkämeren eteläosa, su 6.00 - ma 0.00",
-   "desc": "Myrskyvaroitus: Pohjoisen ja koillisen välistä myrskyä aamusta alkaen 21 m/s.",
+   "title": "Oranssi tuulivaroitus merelle: Ahvenanmeri ja Selkämeren eteläosa, su 11.46 - ma 0.00",
+   "desc": "Myrskyvaroitus: Pohjoisen ja koillisen välistä myrskyä aluksi 21 m/s.",
    "lvl": 1
   }
  ],
