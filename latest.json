@@ -1,52 +1,47 @@
 {
- "updated": "2026-11-23T01:52+00:00",
+ "updated": "2026-11-23T13:17+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-11-22",
-   "shear": 7.9,
-   "srh": null,
-   "li": 11.1
-  },
-  {
    "date": "2026-11-23",
-   "shear": 11.5,
+   "shear": 8.7,
    "srh": null,
-   "li": 13.1
+   "li": 13.9
   },
   {
    "date": "2026-11-24",
-   "shear": 21.6,
+   "shear": 9.2,
    "srh": null,
-   "li": 13.4
+   "li": 13.3
   },
   {
    "date": "2026-11-25",
-   "shear": 18.9,
+   "shear": 18.1,
    "srh": null,
-   "li": 16.2
+   "li": 15.0
+  },
+  {
+   "date": "2026-11-26",
+   "shear": 19.4,
+   "srh": null,
+   "li": 15.4
   }
  ],
  "warnings": [
   {
-   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Ahvenanmeri ja Selkämeren eteläosa, ma 0.00 - ti 0.00",
-   "desc": "POISTETTU: Kovan tuulen varoitus: Pohjoisen ja koillisen välistä tuulta aluksi 19 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 0.00 - 8.00",
+   "desc": "Kovan tuulen varoitus: Pohjoisen ja koillisen välistä tuulta yöllä ja aamulla 15 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri sekä paikoin Pohjanlahti, ma 0.09 - ti 0.00",
-   "desc": "Kovan tuulen varoitus: Pohjoisen ja koillisen välistä tuulta aluksi 19 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri sekä paikoin Pohjanlahti, ma 14.39 - ti 0.00",
+   "desc": "Kovan tuulen varoitus: Pohjoisen ja koillisen välistä tuulta aluksi 17 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri sekä paikoin Pohjanlahti, ti 0.00 - 14.00",
-   "desc": "Kovan tuulen varoitus: Pohjoisen ja koillisen välistä tuulta keskiyöstä alkaen 15 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Oranssi aallokkovaroitus: Ahvenanmeri ja Selkämeri, ma 0.09 - 14.00",
+   "title": "Oranssi aallokkovaroitus: Ahvenanmeri ja Selkämeren eteläosa, ma 14.39 - 17.00",
    "desc": "Aallokkovaroitus: Aluksi esiintyy kovaa aallokkoa, jossa merkitsevä aallonkorkeus ylittää 4 metriä.",
    "lvl": 1
   }
