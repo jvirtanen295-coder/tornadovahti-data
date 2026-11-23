@@ -1,58 +1,53 @@
 {
- "updated": "2026-11-22T19:55+00:00",
+ "updated": "2026-11-23T01:52+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-11-22",
-   "shear": 8.8,
+   "shear": 7.9,
    "srh": null,
-   "li": 11.2
+   "li": 11.1
   },
   {
    "date": "2026-11-23",
-   "shear": 11.0,
+   "shear": 11.5,
    "srh": null,
-   "li": 13.6
+   "li": 13.1
   },
   {
    "date": "2026-11-24",
-   "shear": 11.5,
+   "shear": 21.6,
    "srh": null,
-   "li": 14.7
+   "li": 13.4
   },
   {
    "date": "2026-11-25",
-   "shear": 17.7,
+   "shear": 18.9,
    "srh": null,
-   "li": 16.4
+   "li": 16.2
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen liikennesää: Paikoin maan etelä- ja keskiosa, su 20.14 - ma 0.00",
-   "desc": "Liikennesää: Ajokeli on huono aluksi lumisateen ja tienpintojen jäätymisen vuoksi.",
+   "title": "POISTETTU: Keltainen tuulivaroitus merelle: Ahvenanmeri ja Selkämeren eteläosa, ma 0.00 - ti 0.00",
+   "desc": "POISTETTU: Kovan tuulen varoitus: Pohjoisen ja koillisen välistä tuulta aluksi 19 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri sekä paikoin Pohjanlahti, ti 0.00 - 11.00",
-   "desc": "Kovan tuulen varoitus: Kovan pohjoisen ja koillisen välisen tuulen todennäköisyys on 70 % maanantain ja tiistain välisenä yönä ja tiistaina aamulla.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin Pohjanlahti, su 20.14 - ti 0.00",
+   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri sekä paikoin Pohjanlahti, ma 0.09 - ti 0.00",
    "desc": "Kovan tuulen varoitus: Pohjoisen ja koillisen välistä tuulta aluksi 19 m/s.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri ja Selkämeren eteläosa, ma 0.00 - ti 0.00",
-   "desc": "Kovan tuulen varoitus: Pohjoisen ja koillisen välistä tuulta aluksi 19 m/s.",
+   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri sekä paikoin Pohjanlahti, ti 0.00 - 14.00",
+   "desc": "Kovan tuulen varoitus: Pohjoisen ja koillisen välistä tuulta keskiyöstä alkaen 15 m/s.",
    "lvl": 1
   },
   {
-   "title": "Oranssi tuulivaroitus merelle: Ahvenanmeri ja Selkämeren eteläosa, su 20.14 - ma 0.00",
-   "desc": "Myrskyvaroitus: Pohjoisen ja koillisen välistä myrskyä aluksi 21 m/s.",
+   "title": "Oranssi aallokkovaroitus: Ahvenanmeri ja Selkämeri, ma 0.09 - 14.00",
+   "desc": "Aallokkovaroitus: Aluksi esiintyy kovaa aallokkoa, jossa merkitsevä aallonkorkeus ylittää 4 metriä.",
    "lvl": 1
   }
  ],
