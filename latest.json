@@ -1,48 +1,38 @@
 {
- "updated": "2026-11-23T13:17+00:00",
+ "updated": "2026-11-24T02:24+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-11-23",
-   "shear": 8.7,
+   "shear": 3.2,
    "srh": null,
-   "li": 13.9
+   "li": 14.6
   },
   {
    "date": "2026-11-24",
-   "shear": 9.2,
+   "shear": 13.5,
    "srh": null,
-   "li": 13.3
+   "li": 13.8
   },
   {
    "date": "2026-11-25",
-   "shear": 18.1,
+   "shear": 19.6,
    "srh": null,
-   "li": 15.0
+   "li": 17.3
   },
   {
    "date": "2026-11-26",
-   "shear": 19.4,
+   "shear": 20.8,
    "srh": null,
-   "li": 15.4
+   "li": 17.3
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 0.00 - 8.00",
-   "desc": "Kovan tuulen varoitus: Pohjoisen ja koillisen välistä tuulta yöllä ja aamulla 15 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Ahvenanmeri sekä paikoin Pohjanlahti, ma 14.39 - ti 0.00",
-   "desc": "Kovan tuulen varoitus: Pohjoisen ja koillisen välistä tuulta aluksi 17 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Oranssi aallokkovaroitus: Ahvenanmeri ja Selkämeren eteläosa, ma 14.39 - 17.00",
-   "desc": "Aallokkovaroitus: Aluksi esiintyy kovaa aallokkoa, jossa merkitsevä aallonkorkeus ylittää 4 metriä.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 0.06 - 8.00",
+   "desc": "Kovan tuulen varoitus: Pohjoisen ja koillisen välistä tuulta aluksi 15 m/s.",
    "lvl": 1
   }
  ],
