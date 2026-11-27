@@ -1,53 +1,48 @@
 {
- "updated": "2026-11-27T01:50+00:00",
+ "updated": "2026-11-27T12:49+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
-   "date": "2026-11-26",
-   "shear": 21.2,
-   "srh": null,
-   "li": 23.1
-  },
-  {
    "date": "2026-11-27",
-   "shear": 21.2,
+   "shear": 16.8,
    "srh": null,
-   "li": 20.6
+   "li": 19.6
   },
   {
    "date": "2026-11-28",
-   "shear": 17.3,
+   "shear": 17.0,
    "srh": null,
-   "li": 12.4
+   "li": 12.3
   },
   {
    "date": "2026-11-29",
-   "shear": 10.2,
+   "shear": 13.2,
    "srh": null,
-   "li": 13.4
+   "li": 14.0
+  },
+  {
+   "date": "2026-11-30",
+   "shear": 15.0,
+   "srh": null,
+   "li": 13.7
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 0.00 - ma 0.00",
-   "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 20 % lauantain ja sunnuntain välisestä yöstä sunnuntain ja maanantain väliseen yöhön.",
+   "title": "Keltainen liikennesää: Maan etelä- ja paikoin keskiosa, la 20.00 - ma 0.00",
+   "desc": "Liikennesää: Huonon ajokelin todennäköisyys on 20 % lauantai-illasta sunnuntain ja maanantain väliseen yöhön sään lauhtumisen vuoksi.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeri ja Merenkurkku, la 2.00 - su 0.00",
-   "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 30 % perjantain ja lauantain välisestä yöstä lauantain ja sunnuntain väliseen yöhön.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 0.00 - ma 14.00",
+   "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 60 % lauantain ja sunnuntain välisestä yöstä maanantaipäivään.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ma 0.00 - ti 0.00",
-   "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 20 % sunnuntain ja maanantain välisestä yöstä maanantain ja tiistain väliseen yöhön.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeri ja Merenkurkku, ti 0.00 - 20.00",
-   "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 20 % maanantain ja tiistain välisestä yöstä tiistai-iltaan.",
+   "title": "Keltainen tuulivaroitus merelle: Selkämeri ja Merenkurkku, la 5.00 - su 0.00",
+   "desc": "Kovan tuulen varoitus: Lounaistuulta aamuyöstä alkaen 14 m/s.",
    "lvl": 1
   }
  ],
