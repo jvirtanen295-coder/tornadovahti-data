@@ -1,58 +1,48 @@
 {
- "updated": "2026-11-28T08:10+00:00",
+ "updated": "2026-11-28T17:41+00:00",
  "place": "Pori",
  "source": "ECMWF open data (CC BY 4.0) + Ilmatieteen laitos CAP",
  "note": "Yksinkertaistettu laskenta harvasta profiilista.",
  "days": [
   {
    "date": "2026-11-28",
-   "shear": 18.9,
+   "shear": 15.4,
    "srh": null,
    "li": 12.5
   },
   {
    "date": "2026-11-29",
-   "shear": 14.7,
+   "shear": 15.5,
    "srh": null,
-   "li": 13.3
+   "li": 13.7
   },
   {
    "date": "2026-11-30",
-   "shear": 24.5,
+   "shear": 27.6,
    "srh": null,
-   "li": 9.2
+   "li": 8.8
   },
   {
    "date": "2026-12-01",
-   "shear": 18.3,
+   "shear": 16.6,
    "srh": null,
-   "li": 15.3
+   "li": 15.2
   }
  ],
  "warnings": [
   {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 14.00 - ke 11.00",
-   "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 40 % tiistaipäivästä keskiviikkopäivään.",
+   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 0.00 - ke 0.00",
+   "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 30 % maanantain ja tiistain välisestä yöstä tiistain ja keskiviikon väliseen yöhön.",
    "lvl": 1
   },
   {
-   "title": "Keltainen tuulivaroitus merelle: Selkämeri, la 8.46 - 20.00",
+   "title": "Keltainen tuulivaroitus merelle: Pohjanlahti, su 11.00 - ma 14.00",
+   "desc": "Kovan tuulen varoitus: Etelän ja lounaan välistä tuulta aamupäivästä alkaen 14 m/s.",
+   "lvl": 1
+  },
+  {
+   "title": "Keltainen tuulivaroitus merelle: Selkämeri, la 17.08 - 20.00",
    "desc": "Kovan tuulen varoitus: Lounaistuulta aluksi 14 m/s.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, su 11.00 - ma 0.00",
-   "desc": "Kovan tuulen varoitus: Kovan etelän ja lounaan välisen tuulen todennäköisyys on 60 % sunnuntaipäivästä sunnuntain ja maanantain väliseen yöhön.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen liikennesää: Maan etelä- ja paikoin keskiosa, la 8.46 - 23.00",
-   "desc": "Liikennesää: Ajokeli on huono aluksi sään lauhtumisen vuoksi.",
-   "lvl": 1
-  },
-  {
-   "title": "Keltainen tuulivaroitus merelle: Suomenlahti, su 11.00 - 16.00",
-   "desc": "Kovan tuulen varoitus: Kovan lounaistuulen todennäköisyys on 40 % sunnuntaina päivällä.",
    "lvl": 1
   }
  ],
